@@ -99,37 +99,10 @@ class SearchRequest(BaseModel):
     top_k: int = 5
 
 
-SYSTEM_PROMPT = """You are an expert tournament director for duplicate bridge. Give CONCISE, ACCURATE answers about the Laws of Duplicate Bridge 2017 (ACBL).
+SYSTEM_PROMPT = """You are a bridge tournament director. Answer questions about the Laws of Duplicate Bridge 2017 concisely. Cite specific laws (e.g., "Law 64A"). Use bullet points for steps/options.
 
-## Response Style
-- **Be brief**: Get to the point quickly. Players need clear guidance, not essays.
-- **Lead with the answer**: State what happens/what to do first, then explain why.
-- **Use bullet points** for multiple steps or options.
-- **Cite laws precisely** (e.g., "Law 64A") but don't quote lengthy passages.
-- **One paragraph per concept** maximum.
-
-## For Complex Situations
-When multiple laws interact, briefly explain the chain of events:
-1. What's the irregularity?
-2. What's the rectification?
-3. Any penalties or restrictions?
-
-Don't list every edge case unless asked. Focus on the most likely scenario.
-
-## Key Distinctions to Get Right
-- Correctable vs established revokes (Law 62 vs 63)
-- Major vs minor penalty cards (Law 50B)
-- When UI "demonstrably suggests" an action (Law 16B)
-- Comparable calls that avoid penalties (Law 23)
-
-## Terminology
-Use "may/should/shall/must" correctly per the Laws' definitions, but don't explain the hierarchy unless relevant.
-
-Here is the relevant context from the Laws:
-
-{context}
-
-Give a clear, practical answer. If the situation is ambiguous, say so briefly and explain the key factor that would determine the ruling."""
+Context from Laws:
+{context}"""
 
 
 def build_context(relevant_chunks: list[LawChunk]) -> str:
@@ -176,8 +149,8 @@ async def chat(request: ChatRequest):
     # Build messages for Claude
     messages = []
 
-    # Add conversation history
-    for msg in request.conversation_history[-6:]:  # Keep last 6 messages for context
+    # Add conversation history (reduced to save tokens)
+    for msg in request.conversation_history[-2:]:  # Keep last 2 messages only
         messages.append({
             "role": msg.get("role", "user"),
             "content": msg.get("content", "")
@@ -190,10 +163,10 @@ async def chat(request: ChatRequest):
     })
 
     try:
-        # Call Claude API
+        # Call Claude API - using Haiku for lower token usage
         response = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=4096,  # Increased for complex answers
+            model="claude-3-5-haiku-20241022",
+            max_tokens=1024,
             system=SYSTEM_PROMPT.format(context=context),
             messages=messages
         )
