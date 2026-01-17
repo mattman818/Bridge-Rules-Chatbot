@@ -30,17 +30,22 @@ class LawChunk:
             "category": self.category
         }
 
-    def get_context_string(self) -> str:
-        """Return a formatted string for use as context."""
+    def get_context_string(self, max_chars: int = 800) -> str:
+        """Return a formatted string for use as context, truncated if needed."""
         header = f"LAW {self.law_number}: {self.title}"
         if self.section:
             header += f" - {self.section}"
 
+        # Truncate content if too long
+        content = self.content
+        if len(content) > max_chars:
+            content = content[:max_chars] + "..."
+
         refs = ""
         if self.cross_references:
-            refs = f"\n[Cross-references: {', '.join(self.cross_references)}]"
+            refs = f"\n[See also: Law {', '.join(self.cross_references[:3])}]"
 
-        return f"{header}\n{self.content}{refs}"
+        return f"{header}\n{content}{refs}"
 
 
 # Law categories for semantic grouping
