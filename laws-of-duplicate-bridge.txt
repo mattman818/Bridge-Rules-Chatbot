@@ -1,0 +1,2827 @@
+Laws of
+Duplicate Bridge
+2017 Revised Authorized Edition
+
+Laws of Duplicate
+Bridge
+North American Edition
+As Promulgated in the Western Hemisphere
+by the American Contract Bridge League
+E ective September 25, 2017
+Published by American Contract Bridge League
+Distributed by Baron Barclay Bridge Supply
+
+ISBN: 978-1-944201-10-4
+Copyright 2017 by
+All rights reserved. No part of this book may be reproduced or utilized in any form or by any means, electronic or mechanical,
+including photocopying, recording, or by any information storage and retrieval system without permission in writing
+from the ACBL. ACBL, the ACBL logo, Masterpoint and ACBLScore are registered trademarks of the ACBL.
+
+i
+Preface to the Laws of Duplicate Bridge 2017
+NORTH AMERICAN EDITION
+The 2017 Laws were drafted by the World Bridge Federation Laws Committee with input from the American Contract Bridge League Laws Commission, other National Bridge Organizations, and the Bridge-playing public. This version of the Laws was approved by the ACBL Board of Directors at its Spring 2017 meeting, upon the recommendation of the ACBL Laws Commission. Note that, other than ACBL elections and using American spelling, this version of the Laws is the same as the one approved by the WBF. The ACBL Laws Commission would like to extend special thanks to former member, Je Polisner, who was an active participant in our discussions.
+In contrast to other Mind Sports like Chess and Go, Bridge is a comparatively new game and as such is continually evolving. The first Laws of Duplicate Bridge were published in 1928 and there have been successive revisions in 1933, 1935, 1943, 1949, 1963, 1975, 1987, 1997, and 2007. Through the 1930's the Laws were promulgated by the Portland Club of London and the Whist Club of New York. From the 1940's onwards, the American Contract Bridge League Laws Commission replaced the Whist Club, while the British Bridge League and the European Bridge League supplemented the Portland Club's work.
+Now responsibility for regular revisions has been adopted by the World Bridge Federation, whose Laws Committee is charged with the task of reviewing the Laws at least once every decade. It is fair to state that this latest review is the most extensive to date. Many, many submissions were received from individuals, Tournament Directors,
+
+ii
+NBOs and Zones, and all were considered at length by the Committee. After meeting at a number of championships and after exchanging some thousands of emails, consensus was eventually achieved. The thanks of the whole Bridge world are surely owed to the hard-working Committee members whose names foll. In particular, Ton Kooijman called on his vast experience to act as Chairman and guide the task to a successful conclusion. But no praise is too high for the Secretary, Laurie Kelso, who did all the collating and clerical work, most of the drafting, and devoted countless hours of his time. Without him the job would never have been finished.
+The trends begun in the 2007 Revision have been continued ­ the increased discretion given to Tournament Directors, the attempts to rectify a situation rather than to penalize, and maintaining the position of Regulating Authorities. It is not expected that the Code herein will last indefinitely (indeed right up to the time of publication there were still ongoing discussions on certain laws) but the framework is there, tried and tested, for future editions.
+Both committees acknowledge with gratitude the substantial help each has received from many individuals. It was all greatly appreciated.
+
+iii
+Introduction to the 2017 Laws of Duplicate Bridge
+Duplicate Bridge is continually evolving and changing which is why the World Bridge Federation has charged its Laws Committee with the task of "at least once each decade making a comprehensive study and updating of the entire laws structure."
+This latest review, begun some five years ago, is the most comprehensive to date. Suggestions and comments were sought from interested individuals and National Bridge Organizations and Zones.
+After these were all collated they were considered by the Committee in depth with the relevant law, which then was either amended or left alone. The discussions occurred at a number of WBF Championships and some thousands of emails were exchanged over a five-year period.
+The purpose of the Laws remains unchanged. They are designed to define correct procedure and to provide an adequate remedy for when something goes wrong. They are designed not to punish irregularities but rather to rectify situations where non-o enders may otherwise be damaged. Players should be ready to accept graciously any rectification, penalty, or ruling.
+Begun in 2007, the trend to give Tournament Directors more discretion in enforcing the Law has been continued and attempts have been made to clarify interpretations. The Committee intends to prepare a separate o cial Commentary containing examples to help in this respect.
+Established usage has been retained regarding "may" do (failure to do it is not wrong), "does" (establishes procedure without suggesting that violation be penalized), "should" do (failure to do it is an infraction jeopardising the infractor's rights but not often penalized), "shall" do (a violation will incur a penalty more often than not), and "must" do
+
+iv
+(the strongest word, a serious matter indeed). Again "must not" is the strongest prohibition, "shall not" is strong, but "may not" is stronger ­ just short of "must not".
+For the avoidance of doubt, this Introduction and the Definitions that follow form part of the Laws.
+Finally, unless the context clearly dictates otherwise, the singular includes the plural, the masculine includes the feminine, and vice versa.
+
+v
+
+Promulgating Bodies
+
+The Laws Committee of the World Bridge Federation Ton Kooijman, Chairman (Netherlands)
+Laurie Kelso, Secretary (Australia)
+
+Max Bavin (England) Chip Martel (USA)
+
+Maurizio Di Sacco (Italy) Howard Weinstein (USA)
+
+David Harris (England) John Wignall (New Zealand)
+
+Alvin Levy (USA)
+
+Adam Wildavsky (USA)
+
+www.worldbridge.org/governance/committees-1/ #Laws-Committee
+
+The Laws Commission of the American Contract Bridge League
+Chip Martel, Chairman
+Adam Wildavsky, Vice Chairman
+
+Peter Boyd Chris Compton Allan Falk Ron Gerard Robb Gordon Al Levy Matt Koltnow
+
+Eric Rodwell Rebecca Rogers Aaron Silverstein Matt Smith Roger Stern Howard Weinstein
+
+www.acbl.org/administration/#committees
+
+vi
+
+Table of Contents
+Definitions
+LAW 1 - THE PACK
+A. Rank of Cards and Suits B. The Face of the Cards C. The Backs of the Cards
+LAW 2 - THE DUPLICATE BOARDS
+LAW 3 - ARRANGEMENT OF TABLES
+LAW 4 - PARTNERSHIPS
+LAW 5 - ASSIGNMENT OF SEATS
+A. Initial Position B. Change of Direction or Table
+LAW 6 - THE SHUFFLE AND DEAL
+A. The Shu e B. The Deal C. Representation of Both Pairs D. New Shu e and Re-deal E. Director's Option on Shu ing and Dealing F. Duplication of Board
+LAW 7 - CONTROL OF BOARD AND CARDS
+A. Placement of Board B. Removal of Cards from Board C. Returning Cards to Board D. Responsibility for Procedures
+LAW 8 - SEQUENCE OF ROUNDS
+A. Movement of Boards and Players B. End of Round C. End of Last Round and End of Session
+
+vii
+1
+7 7 7 7
+7
+8
+8
+8 8 9
+9 9 9 9 9 10 10
+11 11 11 11 11
+12 12 12 12
+
+viii
+
+LAW 9 - PROCEDURE FOLLOWING
+
+AN IRREGULARITY
+
+12
+
+A. Drawing Attention to an Irregularity
+
+12
+
+B. After Attention Is Drawn to an Irregularity
+
+13
+
+C. Premature Correction of an Irregularity
+
+13
+
+LAW 10 - ASSESSMENT OF RECTIFICATION
+
+14
+
+A. Right to Determine Rectification
+
+14
+
+B. Cancelation of Enforcement or
+
+Waiver of Rectification
+
+14
+
+C. Choice after Irregularity
+
+14
+
+LAW 11 - FORFEITURE OF THE RIGHT
+
+TO RECTIFICATION
+
+14
+
+A. Action by Non-O ending Side
+
+14
+
+B. Penalty after Forfeiture of the
+
+Right to Rectification
+
+15
+
+LAW 12 - DIRECTOR'S DISCRETIONARY POWERS 15
+
+A. Power to Award an Adjusted Score
+
+15
+
+B. Objectives of Score Adjustment
+
+15
+
+C. Awarding an Adjusted Score
+
+16
+
+LAW 13 - INCORRECT NUMBER OF CARDS
+
+18
+
+A. No Call Made
+
+18
+
+B. Discovered during the Auction or Play
+
+18
+
+C. Surplus Card
+
+19
+
+D. Play Completed
+
+19
+
+LAW 14 - MISSING CARD
+
+19
+
+A. Hand Found Deficient before
+
+Play Commences
+
+19
+
+B. Hand Found Deficient Afterwards
+
+20
+
+C. Information from Replacement of a Card
+
+20
+
+LAW 15 - WRONG BOARD OR HAND
+
+20
+
+A. Cards from Wrong Board
+
+20
+
+B. Wrong Board Discovered During Auction
+
+or Play Period
+
+21
+
+ix
+
+LAW 16 - AUTHORIZED AND
+
+UNAUTHORIZED INFORMATION
+
+22
+
+A. Players' Use of Information
+
+22
+
+B. Extraneous Information from Partner
+
+22
+
+C. Information from Withdrawn Calls and Plays 23
+
+D. Extraneous Information from Other Sources 24
+
+LAW 17 - THE AUCTION PERIOD
+
+25
+
+A. Auction Period Starts
+
+25
+
+B. The First Call
+
+25
+
+C. Successive Calls
+
+25
+
+D. End of Auction Period
+
+25
+
+LAW 18 - BIDS
+
+26
+
+A. Proper Form
+
+26
+
+B. To Supersede a Bid
+
+26
+
+C. Su cient Bid
+
+26
+
+D. Insu cient Bid
+
+26
+
+E. Rank of the Denominations
+
+26
+
+F. Di erent Methods
+
+26
+
+LAW 19 - DOUBLES AND REDOUBLES
+
+26
+
+A. Doubles
+
+26
+
+B. Redoubles
+
+27
+
+C. Double or Redouble Superseded
+
+27
+
+D. Scoring a Doubled or Redoubled Contract 27
+
+LAW 20 - REVIEW AND EXPLANATION OF CALLS 27
+
+A. Call Not Clearly Recognized
+
+27
+
+B. Review of Auction during Auction Period
+
+28
+
+C. Review after Final Pass
+
+28
+
+D. Who May Review the Auction
+
+28
+
+E. Correction of Error in Review
+
+28
+
+F. Explanation of Calls
+
+28
+
+G. Incorrect Procedure
+
+30
+
+x
+
+LAW 21 - MISINFORMATION
+
+30
+
+A. Call or Play Based on Player's
+
+Own Misunderstanding
+
+30
+
+B. Call Based on Misinformation from an Opponent 30
+
+LAW 22 ­ END OF AUCTION
+
+31
+
+LAW 23 ­ COMPARABLE CALL
+
+31
+
+A. Definition
+
+31
+
+B. No Rectification
+
+32
+
+C. Non-O ending Side Damaged
+
+32
+
+LAW 24 - CARD EXPOSED OR LED
+
+DURING THE AUCTION
+
+32
+
+A. Low Card Not Prematurely Led
+
+33
+
+B. Single Card of Honor Rank or
+
+Card Prematurely Led
+
+33
+
+C. Two or More Cards Are Exposed
+
+33
+
+D. Declaring Side
+
+33
+
+E. Defenders
+
+33
+
+LAW 25 - LEGAL AND ILLEGAL CHANGES OF CALL 33
+
+A. Unintended Call
+
+33
+
+B. Call Intended
+
+34
+
+LAW 26 ­ CALL WITHDRAWN, LEAD RESTRICTIONS 34
+
+A. No Lead Restrictions
+
+34
+
+B. Lead Restrictions
+
+35
+
+LAW 27 ­ INSUFFICIENT BID
+
+35
+
+A. Acceptance of Insu cient Bid
+
+35
+
+B. Insu cient Bid not Accepted
+
+35
+
+C. Premature Replacement
+
+36
+
+D. Non-o ending Side Damaged
+
+36
+
+LAW 28 - CALLS CONSIDERED TO BE IN ROTATION 37
+
+A. RHO Required to Pass
+
+37
+
+B. Call by Correct Player Cancelling Call
+
+Out of Rotation
+
+37
+
+xi
+
+LAW 29 - PROCEDURE AFTER A CALL
+
+OUT OF ROTATION
+
+37
+
+A. Forfeiture of Right to Rectification
+
+37
+
+B. Out-of-Rotation Call Cancelled
+
+37
+
+C. Call Out of Rotation Is Artificial
+
+37
+
+LAW 30 - PASS OUT OF ROTATION
+
+38
+
+A. RHO's Turn to Call
+
+38
+
+B. Partner's or LHO's Turn to Call
+
+38
+
+C. When Pass Is Artificial
+
+38
+
+LAW 31 - BID OUT OF ROTATION
+
+39
+
+A. RHO's Turn to Call
+
+39
+
+B. Partner's or LHO's Turn to Call
+
+39
+
+C. Later Bids at LHO's Turn to Call
+
+39
+
+LAW 32 - DOUBLE OR REDOUBLE OUT
+
+OF ROTATION
+
+40
+
+A. RHO's Turn to Call
+
+40
+
+B. O ender's Partner's Turn to Call
+
+40
+
+C. Later Calls at LHO's Turn to Call
+
+40
+
+LAW 33 - SIMULTANEOUS CALLS
+
+41
+
+LAW 34 - RETENTION OF RIGHT TO CALL
+
+41
+
+LAW 35 - INADMISSIBLE CALLS
+
+41
+
+LAW 36 - INADMISSIBLE DOUBLES
+
+AND REDOUBLES
+
+41
+
+A. O ender's LHO Calls before Rectification
+
+41
+
+B. O ender's LHO does not
+
+Call before Rectification
+
+42
+
+C. Irregularity Discovered after the Auction Period 42
+
+LAW 37 - ACTION VIOLATING OBLIGATION TO PASS 42
+
+A. O ender's LHO Calls before Rectification
+
+42
+
+B. O ender's LHO does not Call
+
+before Rectification
+
+42
+
+xii
+
+LAW 38 - BID OF MORE THAN SEVEN
+
+43
+
+A. No Play Permissible
+
+43
+
+B. Bid and Subsequent Calls Cancelled
+
+43
+
+C. O ending Side Must Pass
+
+43
+
+D. Possible Lack of Recourse to
+
+Laws 26B and 72C
+
+43
+
+LAW 39 - CALL AFTER THE FINAL PASS
+
+43
+
+A. Calls Cancelled
+
+43
+
+B. Pass by Defender or Any Call by Declaring Side 44
+
+C. Other Action by Defender
+
+44
+
+LAW 40 - PARTNERSHIP UNDERSTANDINGS
+
+44
+
+A. Players' Systemic Agreements
+
+44
+
+B. Special Partnership Understandings
+
+45
+
+C. Deviation from System and Psychic Action 47
+
+LAW 41 - COMMENCEMENT OF PLAY
+
+48
+
+A. Face-down Opening Lead
+
+48
+
+B. Review of Auction and Questions
+
+48
+
+C. Opening Lead Faced
+
+48
+
+D. Dummy's Hand
+
+49
+
+LAW 42 - DUMMY'S RIGHTS
+
+49
+
+A. Absolute Rights
+
+49
+
+B. Qualified Rights
+
+49
+
+LAW 43 - DUMMY'S LIMITATIONS
+
+49
+
+A. Limitations on Dummy
+
+49
+
+B. If Violation Occurs
+
+50
+
+LAW 44 - SEQUENCE AND PROCEDURE OF PLAY
+
+51
+
+A. Lead to a Trick
+
+51
+
+B. Subsequent Plays to a Trick
+
+51
+
+C. Requirement to Follow Suit
+
+51
+
+D. Inability to Follow Suit
+
+51
+
+E. Tricks Containing Trumps
+
+51
+
+F. Tricks Not Containing Trumps
+
+51
+
+G. Lead to Tricks Subsequent to First Trick
+
+51
+
+xiii
+
+LAW 45 - CARD PLAYED
+
+52
+
+A. Play of Card from a Hand
+
+52
+
+B. Play of Card from Dummy
+
+52
+
+C. Card Deemed to be Played
+
+52
+
+D. Dummy Picks up a Non-designated Card
+
+53
+
+E. Fifth Card Played to Trick
+
+53
+
+F. Dummy Indicates Card
+
+54
+
+G. Turning the Trick
+
+54
+
+LAW 46 ­ INCOMPLETE OR INVALID DESIGNATION
+
+OF A CARD FROM DUMMY
+
+54
+
+A. Proper Form for Designating Dummy's Card 54
+
+B. Incomplete or Invalid Designation
+
+54
+
+LAW 47 - RETRACTION OF CARD PLAYED
+
+55
+
+A. In Course of Rectification
+
+55
+
+B. To Correct an Illegal Play
+
+56
+
+C. To Change an Unintended Designation
+
+56
+
+D. Following Opponent's Change of Play
+
+56
+
+E. Change of Play Based on Misinformation
+
+56
+
+F. Other Retraction
+
+56
+
+LAW 48 - EXPOSURE OF DECLARER'S CARDS
+
+57
+
+A. Declarer Exposes a Card
+
+57
+
+B. Declarer Faces Cards
+
+57
+
+LAW 49 - EXPOSURE OF A DEFENDER'S CARDS
+
+57
+
+LAW 50 - DISPOSITION OF PENALTY CARD
+
+58
+
+A. Penalty Card Remains Exposed
+
+58
+
+B. Major or Minor Penalty Card
+
+58
+
+C. Disposition of Minor Penalty Card
+
+58
+
+D. Disposition of Major Penalty Card
+
+58
+
+E. Information from a Penalty Card
+
+59
+
+LAW 51 - TWO OR MORE PENALTY CARDS
+
+60
+
+A. O ender to Play
+
+60
+
+B. O ender's Partner to Lead
+
+60
+
+xiv
+
+LAW 52 - FAILURE TO LEAD OR PLAY A PENALTY CARD 62
+
+A. Defender Fails to Play Penalty Card
+
+62
+
+B. Defender Plays Another Card
+
+62
+
+LAW 53 - LEAD OUT OF TURN ACCEPTED
+
+62
+
+A. Lead Out of Turn Treated as Correct Lead
+
+62
+
+B. Proper Lead Made Subsequent
+
+to Irregular Lead
+
+63
+
+C. Wrong Defender Plays Card to Declarer's
+
+Irregular Lead
+
+63
+
+LAW 54 - FACED OPENING LEAD OUT OF TURN
+
+63
+
+A. Declarer Spreads His Hand
+
+63
+
+B. Declarer Accepts Lead
+
+63
+
+C. Declarer Must Accept Lead
+
+64
+
+D. Declarer Refuses Opening Lead
+
+64
+
+E. Opening Lead by Wrong Side
+
+64
+
+LAW 55 - DECLARER'S LEAD OUT OF TURN
+
+64
+
+A. Declarer's Lead Accepted
+
+64
+
+B. Declarer Required to Retract Lead
+
+64
+
+C. Declarer Might Obtain Information
+
+65
+
+LAW 56 - DEFENDER'S LEAD OUT OF TURN
+
+65
+
+LAW 57 - PREMATURE LEAD OR PLAY
+
+65
+
+A. Premature Play or Lead to Next Trick
+
+65
+
+B. O ender's Partner Cannot Comply
+
+with Rectification
+
+66
+
+C. Declarer or Dummy Has Played
+
+66
+
+D. Premature Play at RHO's Turn
+
+66
+
+LAW 58 - SIMULTANEOUS LEADS OR PLAYS
+
+66
+
+A. Simultaneous Plays by Two Players
+
+66
+
+B. Simultaneous Cards from One Hand
+
+67
+
+LAW 59 - INABILITY TO LEAD OR PLAY AS REQUIRED 67
+
+LAW 60 - PLAY AFTER AN ILLEGAL PLAY
+A. Play of Card after Irregularity B. Defender Plays before Required
+Lead by Declarer C. Play by O ending Side before
+Assessment of Rectification
+LAW 61 - FAILURE TO FOLLOW SUIT -
+INQUIRIES CONCERNING A REVOKE
+A. Definition of Revoke B. Right to Inquire about a Possible Revoke C. Right to Inspect Tricks
+LAW 62 - CORRECTION OF A REVOKE
+A. Revoke Must Be Corrected B. Correcting a Revoke C. Subsequent Cards Played D. Revoke on Trick Twelve
+LAW 63 - ESTABLISHMENT OF A REVOKE
+A. Revoke Becomes Established B. Revoke May Not Be Corrected
+LAW 64 - PROCEDURE AFTER ESTABLISHMENT
+OF A REVOKE
+A. Automatic Trick Adjustment B. No Automatic Trick Adjustment C. Redress of Damage
+LAW 65 - ARRANGEMENT OF TRICKS
+A. Completed Trick B. Keeping Track of the Ownership of Tricks C. Orderliness D. Agreement on Results of Play
+LAW 66 - INSPECTION OF TRICKS
+A. Current Trick B. Own Last Card C. Quitted Tricks D. After the Conclusion of Play
+
+xv
+67 67
+68
+68
+68 68 68 69
+69 69 69 69 70
+70 70 70
+71 71 71 72
+72 72 72 73 73
+73 73 73 73 74
+
+xvi
+
+LAW 67 - DEFECTIVE TRICK
+
+74
+
+A. Before Both Sides Play to Next Trick
+
+74
+
+B. After Both Sides Play to Next Trick
+
+74
+
+LAW 68 - CLAIM OR CONCESSION OF TRICKS
+
+76
+
+A. Claim Defined
+
+76
+
+B. Concession Defined
+
+76
+
+C. Clarification Required
+
+77
+
+D. Suspension of Play
+
+77
+
+LAW 69 - AGREED CLAIM OR CONCESSION
+
+77
+
+A. Establishment of Agreement
+
+77
+
+B. Withdrawal of Established Agreement
+
+78
+
+LAW 70 - CONTESTED CLAIM OR CONCESSION
+
+78
+
+A. General Objective
+
+78
+
+B. Clarification Statement Repeated
+
+78
+
+C. There Is an Outstanding Trump
+
+78
+
+D. Director's Considerations
+
+79
+
+E. Unstated Line of Play
+
+79
+
+LAW 71 - CONCESSION CANCELLED
+
+80
+
+LAW 72 - GENERAL PRINCIPLES
+
+80
+
+A. Observance of Laws
+
+80
+
+B. Infraction of Law
+
+80
+
+C. Awareness of Potential Damage
+
+81
+
+LAW 73 - COMMUNICATION, TEMPO AND DECEPTION 81
+
+A. Appropriate Communication between Partners 81
+
+B. Inappropriate Communication between Partners 81
+
+C. Player Receives Unauthorized Information
+
+from Partner
+
+82
+
+D. Variations in Tempo or Manner
+
+82
+
+E. Deception
+
+82
+
+LAW 74 - CONDUCT AND ETIQUETTE
+
+83
+
+A. Proper Attitude
+
+83
+
+B. Etiquette
+
+83
+
+C. Violations of Procedure
+
+83
+
+xvii
+
+LAW 75 - MISTAKEN EXPLANATION OR
+
+MISTAKEN CALL
+
+84
+
+A. Mistake Causing Unauthorized Information 84
+
+B. Mistaken Explanation
+
+85
+
+C. Mistaken Call
+
+85
+
+D. Director's Determination
+
+85
+
+LAW 76 - SPECTATORS
+
+86
+
+A. Control
+
+86
+
+B. At the Table
+
+87
+
+C. Participation
+
+87
+
+D. Status
+
+87
+
+LAW 77 ­ DUPLICATE BRIDGE SCORING TABLE
+
+87
+
+LAW 78 - METHODS OF SCORING AND
+
+CONDITIONS OF CONTEST
+
+90
+
+A. Matchpoint Scoring
+
+90
+
+B. International Matchpoint Scoring
+
+90
+
+C. Total Point Scoring
+
+90
+
+D. Conditions of Contest
+
+91
+
+LAW 79 - TRICKS WON
+
+91
+
+A. Agreement on Tricks Won
+
+91
+
+B. Disagreement on Tricks Won
+
+91
+
+C. Error in Score
+
+92
+
+LAW 80 - REGULATION AND ORGANIZATION
+
+92
+
+A. The Regulating Authority
+
+92
+
+B. Tournament Organizer
+
+93
+
+LAW 81 - THE DIRECTOR
+
+94
+
+A. O cial Status
+
+94
+
+B. Restrictions and Responsibilities
+
+94
+
+C. Director's Duties and Powers
+
+94
+
+D. Delegation of Duties
+
+95
+
+xviii
+
+LAW 82 - RECTIFICATION OF ERRORS OF PROCEDURE 95
+
+A. Director's Duty
+
+95
+
+B. Rectification of Error
+
+96
+
+C. Director's Error
+
+96
+
+LAW 83 - NOTIFICATION OF THE RIGHT TO APPEAL 96
+
+LAW 84 - RULINGS AN AGREED FACTS
+
+96
+
+A. No Rectification
+
+96
+
+B. Law Provides Rectification
+
+97
+
+C. Player's Option
+
+97
+
+D. Director's Option
+
+97
+
+LAW 85 - RULINGS ON DISPUTED FACTS
+
+97
+
+A. Director's Assessment
+
+97
+
+B. Facts Not Determined
+
+97
+
+LAW 86 - TEAM PLAY
+
+98
+
+A. Substitute Board
+
+98
+
+B. Result Obtained at Other Table
+
+98
+
+LAW 87 - FOULED BOARD
+
+99
+
+A. Definition
+
+99
+
+B. Pairs and Individual Scoring
+
+99
+
+C. Teams Scoring
+
+99
+
+LAW 88 - AWARD OF INDEMNITY POINTS
+
+100
+
+LAW 89 - RECTIFICATION IN INDIVIDUAL EVENTS 100
+
+LAW 90 - PROCEDURAL PENALTIES
+
+100
+
+A. Director's Authority
+
+100
+
+B. O enses Subject to Procedural Penalty
+
+100
+
+LAW 91 - PENALIZE OR SUSPEND
+
+101
+
+A. Director's Powers
+
+101
+
+B. Right to Disqualify
+
+101
+
+LAW 92 - RIGHT TO APPEAL
+A. Contestant's Right B. Time of Appeal C. How to Appeal D. Concurrence of Appellants
+LAW 93 - PROCEDURES OF APPEAL
+A. No Appeals Committee B. Appeals Committee Available C. Further Possibilities of Appeal
+Index to Duplicate Laws
+
+xix
+101 101 101 102 102
+102 102 102 103
+104
+
+xx
+
+1
+Definitions
+Adjusted Score: A score awarded by the Director (see Law 12). It is either "artificial" or "assigned".
+Alert: A notification, whose form may be specified by the Regulating Authority, to the e ect that opponents may be in need of an explanation.
+Artificial call: 1) A bid, double, or redouble that conveys information (not being information taken for granted by players generally) other than (or in addition to) a willingness to play in the denomination named or last named. 2) A pass that promises more than a specified amount of strength. 3) A pass that promises or denies values other than in the last suit named.
+Auction: 1) The process of determining the contract by means of successive calls. It begins when the first call is made. 2) The aggregate of calls made (see Law 17).
+Bid: An undertaking to win at least a specified number of odd tricks (tricks in excess of six) in a specified denomination.
+Board: 1) A duplicate board as described in Law 2. 2) The four hands as originally dealt and placed in a duplicate board for play during a session (also referred to as a "Deal").
+Call: Any bid, double, redouble or pass.
+Cancelled: See "Withdrawn".
+Contestant: In an individual event, a player; in a pair event, two players playing as partners throughout the event; in a team event, four or more players playing as teammates.
+
+2
+Contract: The undertaking by declarer's side to win, at the denomination named, the number of odd tricks specified in the final bid, whether undoubled, doubled or redoubled. (See Law 22)
+Deal: 1) The distribution of the pack to form the hands of the four players. 2) The cards so distributed considered as a unit, including the auction and play thereof.
+Declarer: The player who, for the side that makes the final bid, first bid the denomination named in the final bid. He becomes declarer when the opening lead is faced (but see Law 54A when the opening lead is made out of turn).
+Defender: An opponent of (presumed) declarer.
+Denomination: The suit or notrump specified in a bid.
+Double: A call over an opponent's bid increasing the scoring value of fulfilled or defeated contracts (see Laws 19A and 77).
+Dummy: 1) Declarer's partner. He becomes dummy when the opening lead is faced and ceases to be dummy when play ends. 2) Declarer's partner's cards, once they are spread on the table after the opening lead.
+Event: A contest of one or more sessions (synonym for "Tournament").
+Extraneous: Not part of the lawful procedures of the game.
+Follow Suit: Play a card of the suit that has been led.
+Game: 100 or more trick points scored on one deal (see Law 77).
+Hand: The cards originally dealt to a player or the remaining portion thereof.
+
+3
+Honor: Any Ace, King, Queen, Jack or 10.
+Infraction: A player's breach of Law or of Lawful regulation.
+International Matchpoint (IMP): A unit of scoring awarded according to a schedule established in Law 78B.
+Irregularity: A deviation from correct procedure inclusive of, but not limited to, those which involve an infraction by a player.
+Lead: The first card played to a trick.
+LHO: Left-hand opponent.
+Matchpoint: A unit of scoring awarded to a contestant as a result of comparison with one or more other scores. See Law 78A.
+Misinformation: The failure of a side to accurately disclose partnership method or understanding as and when required by law or regulation.
+Odd Trick: Each trick to be won by declarer's side in excess of six.
+Opening Lead: The card led to the first trick.
+Opponent: A player of the other side; a member of the partnership to which one is opposed.
+Overtrick: Each trick won by declarer's side in excess of the contract.
+Pack: The 52 playing cards with which the game is played.
+Partner: The player with whom one plays as a side against the other two players at the table.
+Partscore: 90 or fewer trick points scored on one deal (see Law 77).
+Pass: A call specifying that a player does not, at that turn, elect to bid, double or redouble.
+
+4
+Penalty (see also "Rectification"): Penalties are of two kinds: 1) disciplinary ­ those applied for the maintenance of courtesy and good order (see Law 91), and 2) procedural ­ penalties (additional to any rectification) assessed at the Director's discretion in cases of procedural irregularities (see Law 90).
+Penalty card: A card subject to disposition under Law 50.
+Play: 1) The contribution of a card from one's hand to a trick, including the first card, which is the lead. 2) The aggregate of plays made. 3) The period during which the cards are played. 4) The aggregate of the calls and plays on a board.
+Play period: Commences when the opening lead on a board is faced; contestants' rights and powers in the play period each expire as the relevant Law provides. The play period itself ends when the cards are removed from their slots on the subsequent board (or when the last board of a round is quitted).
+Premium Points: Any points earned other than trick points (see Law 77).
+Presumed Declarer: The player, who in the absence of an irregularity, would become declarer.
+Psychic call (commonly "psych[e]" or "psychic"): A deliberate and gross misstatement of honor strength and/or of suit length.
+Rectification: The remedial provisions to be applied when an irregularity has come to the Director's attention.
+Redouble: A call over an opponent's double, increasing the scoring value of fulfilled or defeated contracts (see Laws 19B and 77).
+Retracted: See "Withdrawn".
+RHO: Right-hand opponent.
+
+5
+Rotation: The clockwise progression of the normal turns to call or play; also the clockwise order in which, one at a time, the cards are recommended to be dealt.
+Round: A part of a session played without progression of players.
+Session: An extended period of play during which a number of boards, specified by the Tournament Organizer, is scheduled to be played. (May have di erent meanings as between Laws 4, 12C2 and 91.)
+Side: Two players at a table who constitute a partnership against the other two players.
+Slam: A contract to win six odd tricks (called Small Slam) or to win seven odd tricks (called Grand Slam).
+Sorted deck: A pack of cards not randomized from its prior condition.
+Suit: One of four groups of cards in the pack, each group comprising thirteen cards and having a characteristic symbol: spades (), hearts (), diamonds (), clubs ().
+Team: Two or more pairs playing in di erent compass directions at di erent tables but for a common score (applicable regulations may permit teams of more than four members).
+Trick: The unit by which the outcome of the contract is determined, composed unless flawed of four cards, one contributed by each player in rotation, beginning with the lead.
+Trick Points: Points scored by declarer's side for fulfilling the contract (see Law 77).
+Trump: Each card of the denomination named in a suit contract.
+
+6
+Tournament: A contest of one or more sessions (synonym for "Event").
+Turn: The correct time at which a player is due to call or play.
+Undertrick: Each trick by which declarer's side falls short of fulfilling the contract (see Law 77).
+Unintended: Involuntary; not under control of the will; not the intention of the player at the moment of his action.
+Visible Card: A card held such that its face may be seen by either an opponent or by partner.
+Vulnerability: The conditions for assigning premiums and undertrick penalties (see Law 77).
+Withdrawn: Actions said to be "withdrawn" include actions that are "cancelled" and cards that are "retracted".
+
+7
+LAW 1
+THE PACK
+A. Rank of Cards and Suits Duplicate Bridge is played with a pack of 52 cards, consisting of thirteen cards in each of four suits. The suits rank downward in the order spades (), hearts (), diamonds (), clubs (). The cards of each suit rank downward in the order Ace, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+B. The Face of the Cards The Regulating Authority may require the face of each card to be symmetrical.
+C. The Backs of the Cards The backs of all 52 cards in a deck should be identical. They may incorporate words, a logo or a pictorial design but the image used should possess a center of symmetry.
+
+LAW 2
+THE DUPLICATE BOARDS
+
+A duplicate board containing a pack is provided for each deal to be played during a session. Each board is numbered and has four pockets to hold the four hands, designated North, East, South and West. The dealer and vulnerability are designated as follows:
+
+North Dealer East Dealer South Dealer West Dealer
+
+Boards Boards Boards Boards
+
+1 5 9 13 2 6 10 14 3 7 11 15 4 8 12 16
+
+Neither Side Vulnerable North-South Vulnerable East-West Vulnerable Both Sides Vulnerable
+
+Boards Boards Boards Boards
+
+1 8 11 14 2 5 12 15 3 6 9 16 4 7 10 13
+
+8
+The same sequence is repeated for Boards 17-32 and for each subsequent group of 16 boards.
+No board that fails to conform to these conditions should be used. If such board is used, however, the conditions marked on it apply for that session.
+LAW 3
+ARRANGEMENT OF TABLES
+Four players play at each table, and tables are numbered in a sequence established by the Director. He designates one direction as North; other compass directions assume the normal relationship to North.
+LAW 4
+PARTNERSHIPS
+The four players at each table constitute two partnerships or sides, North-South against EastWest. In pair or team events the contestants enter as pairs or teams respectively and retain the same partnerships throughout a session (except as authorized by the Director). In individual events each player enters separately, and partnerships change during a session.
+LAW 5
+ASSIGNMENT OF SEATS
+A. Initial Position The Director assigns an initial position to each contestant (individual, pair or team) at the start of a session. Unless otherwise directed, the members of each pair or team may select seats among those assigned to them by mutual
+
+9
+agreement. Having once selected a compass direction, a player may change it within a session only upon instruction or with permission of the Director.
+B. Change of Direction or Table Players change their initial compass direction or proceed to another table in accordance with the Director's instructions. The Director is responsible for clear announcement of instructions; each player is responsible for moving when and as directed and for occupying the correct seat after each change.
+LAW 6
+THE SHUFFLE AND DEAL
+A. The Shu e Before play starts, each pack is thoroughly shu ed. There is a cut if either opponent so requests.
+B. The Deal The cards must be dealt face down, one card at a time, into four hands of thirteen cards each; each hand is then placed face down in one of the four pockets of the board. No two adjacent cards from the deck shall be dealt into the same hand. The recommended procedure is that the cards be dealt in rotation, clockwise.
+C. Representation of Both Pairs A member of each side should be present during the shu e and deal unless the Director instructs otherwise.
+D. New Shu e and Redeal 1. If it is ascertained before the auction first begins on a board that the cards have been incorrectly dealt or that during the shu e and deal a player could have seen the face of a card
+
+10
+belonging to another player there shall be a new shu e and deal. Thereafter Law 16D applies to the accidental sighting of a card belonging to another player's hand before completion of the play of the board (but see Law 24). 2. Unless the purpose of the tournament is the replay of past deals no result may stand if the cards are dealt without shu e from a sorted deck1 or if the deal has been imported from a di erent session. (These provisions shall not prevent arrangements, where desired, for exchange of boards between tables.) 3. The Director may require a new shu e and a redeal for any reason compatible with the Laws (but see Law 22B and Law 86A).
+E. Director's Option on Shu ing and Dealing 1. The Director may instruct that the shu e and deal be performed at each table immediately before play starts. 2. The Director may himself perform the shu e and deal in advance. 3. The Director may have his assistants or other appointed agents perform the shu e and deal in advance. 4. The Director may require a di erent method of dealing or pre-dealing to produce the same wholly random expectations as from A and B above.
+F. Duplication of Board If required by the conditions of play, one or more exact copies of each original deal may be made under the Director's instructions. When he so instructs, there shall normally be no redeal of a board (although the Director has powers to order it).
+1 A `sorted deck' is a pack of cards not randomized from its prior condition.
+
+11
+LAW 7
+CONTROL OF BOARD AND CARDS
+A. Placement of Board When a board is to be played it is placed in the center of the table where it shall remain, correctly oriented, until play is completed.
+B. Removal of Cards from Board 1. Each player takes a hand from the pocket corresponding to his compass position. 2. Each player counts his cards face down to be sure he has exactly thirteen; after that, and before making a call, he must inspect the faces of his cards. 3. During play each player retains possession of his own cards, not permitting them to be mixed with those of any other player. No player shall touch any cards other than his own (but declarer may play dummy's cards in accordance with Law 45) during or after play except by permission of an opponent or the Director.
+C. Returning Cards to Board After play has finished, each player should shu e his original thirteen cards, after which he restores them to the pocket corresponding to his compass position. Thereafter no hand shall be removed from the board unless a member of each side, or the Director, is present.
+D. Responsibility for Procedures Any contestant remaining at a table throughout a session is primarily responsible for maintaining proper conditions of play at the table.
+
+12
+LAW 8
+SEQUENCE OF ROUNDS
+A. Movement of Boards and Players 1. The Director instructs the players as to the proper movement of boards and progression of contestants. 2. Unless the Director instructs otherwise, the North player at each table is responsible for moving the boards just completed at his table to the proper table for the following round.
+B. End of Round 1. In general, a round ends when the Director gives the signal for the start of the following round; but if any table has not completed play by that time, the round continues for that table until there has been a progression of players. 2. When the Director exercises his authority to postpone play of a board, for that board the round does not end for the players concerned until the board has been played and the score agreed and recorded or the Director has cancelled the play of the board.
+C. End of Last Round and End of Session The last round of a session, and the session itself, ends for each table when play of all boards scheduled at that table has been completed, and when all scores have been entered without objection.
+LAW 9
+PROCEDURE FOLLOWING AN IRREGULARITY
+A. Drawing Attention to an Irregularity 1. Unless prohibited by Law, any player may draw attention to an irregularity during the auction period, whether or not it is his turn to call.
+
+13
+2. Unless prohibited by Law, declarer or either defender may draw attention to an irregularity that occurs during the play period. For an incorrectly pointed card see Law 65B3.
+3. Any player, including dummy, may attempt to prevent an irregularity (but for dummy subject to Laws 42 and 43).
+4. Dummy may not call attention to an irregularity until play of the hand is concluded (but see Law 20F5 for correction of declarer's apparently mistaken explanation).
+5. There is no obligation to draw attention to an infraction of law committed by one's own side (but see Law 20F5 for correction of partner's apparently mistaken explanation).
+B. After Attention Is Drawn to an Irregularity 1.(a) The Director should be summoned at once when attention is drawn to an irregularity. (b) Any player, including dummy, may summon the Director after attention has been drawn to an irregularity. (c) Summoning the Director does not cause a player to forfeit any rights to which he might otherwise be entitled. (d) The fact that a player draws attention to an irregularity committed by his side does not a ect the rights of the opponents. 2. No player shall take any action until the Director has explained all matters in regard to rectification.
+C. Premature Correction of an Irregularity Any premature correction of an irregularity by the o ender may subject him to a further rectification (see the lead restrictions in Law 26B).
+
+14
+LAW 10
+ASSESSMENT OF RECTIFICATION
+A. Right to Determine Rectification The Director alone has the right to determine rectifications when applicable. Players do not have the right to determine (or waive ­ see Law 81C5) rectifications on their own initiative.
+B. Cancelation of Enforcement or Waiver of Rectification The Director may allow or cancel any enforcement or waiver of a rectification made by the players without his instructions.
+C. Choice after Irregularity 1. When these Laws provide an option after an irregularity, the Director shall explain all the options available. 2. If a player has an option after an irregularity, he must make his selection without consulting partner. 3. When these Laws provide the innocent side with an option after an irregularity committed by an opponent, it is appropriate to select the most advantageous action. 4. Subject to Law 16C2, after rectification of an infraction it is appropriate for the o enders to make any call or play advantageous to their side, even though they thereby appear to profit through their own infraction (but see Laws 27 and 72C).
+LAW 11
+FORFEITURE OF THE RIGHT TO RECTIFICATION
+A. Action by Non-O ending Side The right to rectification of an irregularity may be forfeited if either member of the non-o ending side takes any action before summoning the
+
+15
+Director. If a side has gained through subsequent action taken by an opponent in ignorance of the relevant provisions of the law, the Director adjusts only that side's score by taking away any accrued advantage. The other side retains the score achieved at the table.
+B. Penalty after Forfeiture of the Right to Rectification Even after the right to rectification has been forfeited under this Law, the Director may assess a procedural penalty (see Law 90).
+LAW 12
+DIRECTOR'S DISCRETIONARY POWERS
+A. Power to Award an Adjusted Score On the application of a player within the period established under Law 92B or on his own initiative the Director may award an adjusted score when these Laws empower him to do so (in team play see Law 86B). This includes: 1. The Director may award an adjusted score in favor of a non-o ending contestant when he judges that these Laws do not prescribe a rectification for the particular type of violation committed. 2. The Director awards an artificial adjusted score if no rectification can be made that will permit normal play of the board (see C2 below). 3. The Director may award an adjusted score if there has been an incorrect rectification of an irregularity.
+B. Objectives of Score Adjustment 1. The objective of score adjustment is to redress damage to a non-o ending side and to take away any advantage gained by an o ending side through its infraction. Damage exists when, because of an infraction, an innocent
+
+16
+side obtains a table result less favorable than would have been the expectation had the infraction not occurred. 2. The Director may not award an adjusted score on the grounds that the rectification provided in these Laws is either unduly severe or advantageous to either side.
+C. Awarding an Adjusted Score 1.(a) When after an irregularity the Director is empowered by these laws to adjust a score and is able to award an assigned adjusted score, he does so. Such a score replaces the score obtained in play. (b) The Director in awarding an assigned adjusted score should seek to recover as nearly as possible the probable outcome of the board had the infraction not occurred. (c) An assigned adjusted score may be weighted to reflect the probabilities of a number of potential results, but only outcomes that could have been achieved in a legal manner may be included. (d) If the possibilities are numerous or not obvious, the Director may award an artificial adjusted score (see C2 below). (e) If, subsequent to the irregularity, the non-o ending side has contributed to its own damage by an extremely serious error (unrelated to the infraction) or by a gambling action, which if unsuccessful it might have hoped to recover through rectification, then: (i.) The o ending side is awarded the score it would have been allotted as the consequence of rectifying its infraction. (ii.) The non-o ending side does not receive relief for such part of its damage as is self-inflicted.
+
+17
+2.(a) When owing to an irregularity no result can be obtained [see also C1(d)], the Director awards an artificial adjusted score according to responsibility for the irregularity: average minus (at most 40% of the available matchpoints in pairs) to a contestant directly at fault, average (50% in pairs) to a contestant only partly at fault, and average plus (at least 60% in pairs) to a contestant in no way at fault.
+(b) When the Director chooses to award an artificial adjusted score of average plus or average minus at IMP play, that score is plus 3 IMPs or minus 3 IMPs respectively. Subject to approval by the Regulating Authority, this may be varied by the Tournament Organizer as provided for by Laws 78D, 86B3 and (d) hereunder.
+(c) The foregoing is modified for a nono ending contestant that obtains a session score exceeding 60% of the available matchpoints or for an o ending contestant that obtains a session score that is less than 40% of the available matchpoints (or the equivalent in IMPs). Such contestants are awarded the percentage obtained (or the equivalent in IMPs) on the other boards of that session.
+(d) The Regulating Authority may provide for circumstances where a contestant fails to obtain a result on multiple boards during the same session. The scores assigned for each subsequent board may be varied by regulation from those prescribed in (a) and (b) above.
+3. In individual events the Director enforces the rectifications in these Laws, and the provisions requiring the award of adjusted
+
+18
+scores, equally against both members of the o ending side even though only one of them may be responsible for the irregularity. But the Director shall not award a procedural penalty against the o ender's partner if of the opinion that he is in no way to blame. 4. When the Director awards non-balancing adjusted scores in knockout play, each contestant's score on the board is calculated separately and the average of them is assigned to each.
+LAW 13
+INCORRECT NUMBER OF CARDS2
+A. No Call Made If no player with an incorrect number of cards has made a call, then: 1. The Director shall correct the discrepancy and, if no player has seen another's card, he shall require that the board be played normally. 2. When the Director determines that one or more pockets of the board contained an incorrect number of cards and a player has seen one or more cards of another player's hand, the Director allows the board to be played and scored. If he then considers the extraneous information has a ected the outcome of the board the Director shall adjust the score [see Law 12C1(b)] and may penalize an o ender.
+B. Discovered during the Auction or Play When the Director determines that a player's hand originally contained more than 13 cards with another player holding fewer, and a player with an incorrect hand has made a call:
+2 This Law applies when one or more hands are found to contain more than 13 cards. See Law 14 for cases involving a deficient deck.
+
+19
+1. If the Director judges that the deal can be corrected and played, then the deal may be so played with no change of call. At the end of play the Director may award an adjusted score.
+2. Otherwise when a call has been made with an incorrect number of cards, the Director shall award an adjusted score [see Law 12C1(b)] and may penalize an o ender.
+C. Surplus Card Any surplus card not part of the deal is removed if found. The auction and play continue without further rectification. No adjusted score may be awarded unless such a card is found to have been played to a quitted trick.
+D. Play Completed When it is determined after play ends that a player's hand originally contained more than 13 cards with another player holding fewer, the result must be cancelled and an adjusted score awarded (Law 86B may apply). An o ending contestant is liable to a procedural penalty.
+LAW 14
+MISSING CARD
+A. Hand Found Deficient before Play Commences When one or more hands are found to contain fewer than 13 cards, with no hand having more than 13, before the opening lead is faced, the Director makes a search for any missing card, and: 1. if the card is found, it is restored to the deficient hand. 2. if the card cannot be found, the Director reconstructs the deal by substituting another pack.
+
+20
+3. the auction and play continue normally without alteration of any of the calls made, the restored hand being deemed to have contained all of its cards continuously throughout.
+B. Hand Found Deficient Afterwards When one or more hands are found to contain fewer than 13 cards, with no hand having more than 13, at any time after the opening lead is faced (until the end of the Correction Period), the Director makes a search for any missing card, and: 1. if the card is found among the played cards, Law 67 applies. 2. if the card is found elsewhere, it is restored to the deficient hand. Rectification and/or penalties may apply (see B4 following). 3. if the card cannot be found, the deal is reconstructed using another pack. Rectification and/or penalties may apply (see B4 following). 4. a card restored to a hand under the provisions of Section B of this Law is deemed to have belonged continuously to the deficient hand. It may become a penalty card, and failure to have played it may constitute a revoke.
+C. Information from Replacement of a Card Knowledge of the replacement of a card is unauthorized for the partner of a player whose hand contained an incorrect number of cards.
+LAW 15
+WRONG BOARD OR HAND
+A. Cards from Wrong Board 1. A call is cancelled (together with any subsequent call) if it is made by a player holding cards that he has picked up from a wrong board.
+
+21
+2. (a) If the o ender's partner has subsequently called, the Director shall award an adjusted score.
+(b) Otherwise, after looking at the correct hand the o ender calls again and the auction continues normally from that point.
+(c) Law 16C applies to any call withdrawn or cancelled.
+3. If the o ender subsequently repeats his call on the board from which he mistakenly drew his cards the Director may allow that board to be played normally, but the Director shall award an adjusted score when o ender's call di ers3 from his original cancelled call.
+4. A procedural penalty (Law 90) may be assessed in addition to the rectifications above.
+B. Wrong Board Discovered During Auction or Play Period4 If, after the commencement of the auction period, the Director discovers that a contestant is playing a board not designated for him to play in the current round, then:
+1. if one or more players at the table have previously played the board, with the correct opponents or otherwise, the board is cancelled for both his side and his opponents.
+2. if none of the four players have previously played the board the Director shall require the auction and play to be completed. He allows the score to stand and may require both pairs to play the correct board against one another later.
+3. The Director shall award an artificial adjusted score [see Law 12C2(a)] to any contestant deprived of the opportunity to earn a valid score.
+3 A substituted call di ers if its meaning is much di erent or if it is psychic.
+4 This law only applies to pair and individual events ­ see Law 86B for team events.
+
+22
+LAW 16
+AUTHORIZED AND UNAUTHORIZED INFORMATION
+A. Players' Use of Information 1.A player may use information in the auction or play if: (a)it derives from the legal calls and plays of the current board (including illegal calls and plays that are accepted) and is una ected by unauthorized information from another source; or (b) it is authorized information from a withdrawn action (see C); or (c) it is information specified in any law or regulation to be authorized or, when not otherwise specified, arising from the legal procedures authorized in these laws and in regulations (but see B1 following); or (d) it is information that the player possessed before he took his hand from the board (Law 7B) and the Laws do not preclude his use of this information. 2. Players may also take account of their estimate of their own score, of the traits of their opponents, and any requirement of the tournament regulations.
+B. Extraneous Information from Partner 1. Any extraneous information from partner that might suggest a call or play is unauthorized. This includes remarks, questions, replies to questions, unexpected alerts or failures to alert, unmistakable hesitation, unwonted speed, special emphasis, tone, gesture, movement or mannerism. (a) A player may not choose a call or play that is demonstrably suggested over another by unauthorized information if the other call or play is a logical alternative.
+
+23
+(b) A logical alternative is an action that a significant proportion of the class of players in question, using the methods of the partnership, would seriously consider, and some might select.
+2. When a player considers that an opponent has made such information available and that damage could well result he may announce, unless prohibited by the Regulating Authority (which may require that the Director be called), that he reserves the right to summon the Director later (the opponents should summon the Director immediately if they dispute the fact that unauthorized information might have been conveyed).
+3. When a player has substantial reason to believe that an opponent who had a logical alternative has chosen an action suggested by such information, he should summon the Director when play ends.5 The Director shall assign an adjusted score (see Law 12C1) if he considers that an infraction of law has resulted in an advantage for the offender.
+C. Information from Withdrawn Calls and Plays When a call or play has been withdrawn as these laws provide: 1. For a non-o ending side, all information arising from a withdrawn action is authorized, whether the action be its own or its opponents'. 2. For an o ending side, information arising from its own withdrawn action and from withdrawn actions of the non-o ending side is unauthorized. A player of an o ending side may not choose a call or play that is demonstrably suggested over another by unauthorized information if the other call or play is a logical alternative.
+5 It is not an infraction to call the Director earlier or later.
+
+24
+3. The Director shall assign an adjusted score (see Law 12C1) if he considers that a violation of C2 has damaged the non-o ending side.
+D. Extraneous Information from Other Sources 1. When a player accidentally receives extraneous information about a board he is playing or has yet to play, as by looking at the wrong hand; by overhearing calls, results or remarks; by seeing cards at another table; or by seeing a card belonging to another player at his own table before the auction begins (see also Law 13A), the Director should be notified forthwith, preferably by the recipient of the information. 2. If the Director considers that the information would likely interfere with normal play he may, before any call has been made: (a) adjust the players' positions at the table, if the type of contest and scoring permit, so that the player with information about one hand will hold that hand; (b) if the form of competition allows of it order the board redealt for those contestants; (c) allow completion of the play of the board standing ready to award an adjusted score if he judges that the extraneous information a ected the result; (d) award an adjusted score (for team play see Law 86B). 3. If such extraneous information is received after the first call in the auction has been made and before completion of the play of the board the Director proceeds as in 2(c) or 2(d) above.
+
+25
+LAW 17
+THE AUCTION PERIOD
+A. Auction Period Starts The auction period on a deal begins for a side when either partner withdraws his cards from the board.
+B. The First Call The player designated by the board as dealer makes the first call.
+C. Successive Calls The player to dealer's left makes the second call, and thereafter each player calls in turn in a clockwise rotation.
+D. End of Auction Period 1. The auction period ends when, subsequent to the end of the auction as in Law 22A, either defender faces an opening lead. (If the lead is out of turn then see Law 54.) The interval between the end of the auction and the end of the auction period is designated the Clarification Period. 2. If no player bids (see Law 22B) the auction period ends when all four hands have been returned to the board. 3. When a call has been followed by three passes the auction does not end if any of those passes was out of rotation, depriving a player of his right to call. When this occurs the auction reverts to the player who missed his turn, all subsequent passes are cancelled and the auction proceeds normally. Law 16C applies to the cancelled calls, any player who has passed out of rotation being an o ender.
+
+26
+LAW 18
+BIDS
+A. Proper Form A bid designates a number of odd tricks (tricks in excess of six), from one to seven, and a denomination. (Pass, double and redouble are calls but not bids.)
+B. To Supersede a Bid A bid supersedes a previous bid if it designates either the same number of odd tricks in a higherranking denomination or a greater number of odd tricks in any denomination.
+C. Su cient Bid A bid that supersedes the last preceding bid is a su cient bid.
+D. Insu cient Bid A bid that fails to supersede the last preceding bid is an insu cient bid. It is an infraction to make an insu cient bid (see Law 27 for rectification).
+E. Rank of the Denominations The rank of the denominations in descending order is: notrump, spades, hearts, diamonds, clubs.
+F. Di erent Methods Regulating Authorities may authorize di erent methods of making calls.
+LAW 19
+DOUBLES AND REDOUBLES
+A. Doubles 1. A player may double only the last preceding bid. That bid must have been made by an opponent; calls other than pass must not have intervened.
+
+27
+2. In doubling, a player should not state the number of odd tricks or the denomination. The only correct form is the single word "Double".
+3. If a player, in doubling, incorrectly states the bid, or the number of odd tricks or the denomination, he is deemed to have doubled the bid as it was made. (Law 16 Unauthorized Information may apply.)
+B. Redoubles 1. A player may redouble only the last preceding double. That double must have been made by an opponent; calls other than pass must not have intervened. 2. In redoubling, a player should not state the number of odd tricks or the denomination. The only correct form is the single word "Redouble". 3. If a player, in redoubling, incorrectly states the doubled bid, or the number of odd tricks or the denomination, he is deemed to have redoubled the bid as it was made. (Law 16 Unauthorized Information may apply.)
+C. Double or Redouble Superseded Any double or redouble is superseded by a subsequent legal bid.
+D. Scoring a Doubled or Redoubled Contract If a doubled or redoubled bid is not followed by a subsequent legal bid, scoring values are increased as provided in Law 77.
+LAW 20
+REVIEW AND EXPLANATION OF CALLS
+A. Call Not Clearly Recognized A player may require clarification forthwith if he is in doubt what call has been made.
+
+28
+B. Review of Auction during Auction Period During the auction period, a player is entitled to have all previous calls restated when it is his turn to call, unless he is required by law to pass. Alerts should be included when responding to the request. A player may not ask for a partial review of previous calls and may not halt the review before it is completed.
+C. Review after Final Pass 1. After the final pass either defender has the right to ask if it is his opening lead (see Laws 47E and 41). 2. Declarer6 or either defender may, at his first turn to play, require all previous calls to be restated. (See Laws 41B and 41C). As in B the player may not ask for only a partial restatement or halt the review.
+D. Who May Review the Auction A request to have calls restated shall be responded to only by an opponent.
+E. Correction of Error in Review All players, including dummy or a player required by law to pass, are responsible for prompt correction of errors in restatement (see Law 12C1 when an uncorrected review causes damage).
+F. Explanation of Calls 1. During the auction and before the final pass any player may request7, at his own turn to call, an explanation of the opponents' auction. He is entitled to know about calls actually made, about relevant alternative calls available that were not made, and about inferences from the choice of action where these are matters of partnership understanding. Except
+6 Declarer's first turn to play is from dummy unless accepting an opening lead out of turn.
+7 Unless that player is required by law to pass.
+
+29
+on the instruction of the Director, replies should be given by the partner of the player who made the call in question. The partner of a player who asks a question may not ask a supplementary question until his turn to call or play. Law 16 may apply and the Regulating Authority may establish regulations for written explanations. 2. After the final pass and throughout the play period, either defender at his own turn to play may request an explanation of the opposing auction. At his turn to play from his hand or from dummy declarer may request an explanation of a defender's call or card play understandings. Explanations should be given on a like basis to 1 and by the partner of the player whose action is explained. 3. Under 1 and 2 above a player may ask concerning a single call but Law 16B1 may apply. 4.(a) If a player realizes during the auction that
+his own explanation was erroneous or incomplete, he must summon the Director before the end of the Clarification Period and correct the misexplanation. He may elect to call the Director sooner, but he is under no obligation to do so. (For a correction during the play period, see Law 75B2.) (b) The Director when summoned applies Law 21B or Law 40B3. 5.(a) A player whose partner has given a mistaken explanation may not correct the error during the auction, nor may he indicate in any manner that a mistake has been made. `Mistaken explanation' here includes failure to alert or announce as regulations require or an alert (or an announcement) that regulations do not require.
+
+30
+(b) The player must call the Director and inform his opponents that, in his opinion, his partner's explanation was erroneous (see Law 75B) but only at his first legal opportunity, which is: (i) for a defender, at the end of the play. (ii) for declarer or dummy, after the final pass of the auction.
+6. If the Director judges that a player has based an action on misinformation given to him by an opponent see, as appropriate, Law 21 or Law 47E.
+G. Incorrect Procedure 1. A player may not ask a question if his sole purpose is to benefit partner. 2. A player may not ask a question if his sole purpose is to elicit an incorrect response from an opponent. 3. Except as the Regulating Authority allows, a player may not consult his own system card and notes during the auction period and play [but see Law 40B2(b)].
+LAW 21
+MISINFORMATION
+A. Call or Play Based on Player's Own Misunderstanding No rectification or redress is due to a player who acts on the basis of his own misunderstanding.
+B. Call Based on Misinformation from an Opponent 1. (a) Until the end of the auction period (see Law 17D) and provided that his partner has not subsequently called, a player may change a call without other rectification for his side when the Director judges that the decision to make the call could well have been influenced by misinformation given to
+
+31
+the player by an opponent. Failure to alert promptly where an alert is required by the Regulating Authority is deemed misinformation. (b) The Director is to presume Mistaken Explanation rather than Mistaken Call in the absence of evidence to the contrary.
+2. When a player elects to change a call because of misinformation (as in 1 preceding), his LHO may then in turn change any subsequent call he may have made, but Law 16C applies.
+3. When it is too late to change a call and the Director judges that the o ending side gained an advantage from the irregularity, he awards an adjusted score.
+LAW 22
+END OF AUCTION
+The auction ends when: A. one or more players having bid, there are three consecutive passes in rotation subsequent to the last bid. The last bid becomes the contract (but see Law 19D). B. all four players pass (but see Law 25). The hands are returned to the board without play. There shall not be a redeal.
+LAW 23
+COMPARABLE CALL
+A. Definition A call that replaces a withdrawn call is a comparable call, if it: 1. has the same or similar meaning as that attributable to the withdrawn call, or
+
+32
+2. defines a subset of the possible meanings attributable to the withdrawn call, or
+3. has the same purpose (e.g. an asking bid or a relay) as that attributable to the withdrawn call.
+B. No Rectification When a call is cancelled (as per Law 29B) and the o ender chooses at his proper turn to replace the irregularity with a comparable call, then both the auction and play continue without further rectification. Law 16C2 does not apply, but see C following.
+C. Non-O ending Side Damaged If following the substitution of a comparable call [see Laws 27B1(b), 30B1(b)(i), 31A2(a) and 32A2(a)] the Director judges at the end of the play that without the assistance gained through the infraction the outcome of the board could well have been di erent, and in consequence the non-o ending side is damaged, he shall award an adjusted score [see Law 12C1(b)].
+LAW 24
+CARD EXPOSED OR LED DURING THE AUCTION
+When the Director determines that during the auction, because of a player's own error, one or more cards of that player's hand were in position for the face to be seen by his partner, the Director shall require that every such card be placed face up on the table until the auction ends. Information from cards thus exposed is authorized for the nono ending side but unauthorized for the o ending side (see Law 16C).
+
+33
+A. Low Card Not Prematurely Led If it is a single card below the rank of an honor and not prematurely led, there is no further rectification (but see E following).
+B. Single Card of Honor Rank or Card Prematurely Led If it is a single card of honor rank or is any card prematurely led, offender's partner must pass when next it is his turn to call (see Law 72C when a pass damages the non-offending side).
+C. Two or More Cards Are Exposed If two or more cards are so exposed offender's partner must pass when next it is his turn to call (see Law 72C when a pass damages the nonoffending side).
+D. Declaring side If the offender becomes declarer or dummy the cards are picked up and returned to the hand.
+E. Defenders If at the conclusion of the auction the offender is to become a defender, every such card becomes a penalty card (see Laws 50 and 51).
+LAW 25
+LEGAL AND ILLEGAL CHANGES OF CALL
+A. Unintended Call 1. If a player discovers that he has not made the call he intended to make, he may, until his partner makes a call, substitute the call he intended for the unintended call. The second (intended) call stands and is subject to the appropriate Law, but the lead restrictions in Law 26 do not apply.
+
+34
+2. If the player's original intent was to make the call selected or voiced, that call stands. A change of call may be allowed because of a mechanical error or a slip of the tongue, but not because of a loss of concentration regarding the intent of the action.
+3. A player is allowed to replace an unintended call if the conditions described in A1 above are met, no matter how he may have become aware of his error.
+4. No substitution of call may be made when his partner has made a subsequent call.
+5. If the auction ends before it reaches the player's partner no substitution may occur after the end of the auction period (see Law 17D).
+6. If a substitution is allowed the LHO may withdraw any call he made over the first call. Information from the withdrawn call is authorized to his side and unauthorized to the opponents.
+B. Call Intended 1. A substituted call not permitted by A may be accepted by the offender's LHO. (It is accepted if LHO calls intentionally over it.) The first call is then withdrawn, the second call stands and the auction continues (Law 26 may apply). 2.Except as in B1, a substitution not permitted by A is cancelled. The original call stands and the auction continues (Law 26 may apply). 3.Law 16C applies to any call withdrawn or cancelled.
+LAW 26
+CALL WITHDRAWN, LEAD RESTRICTIONS
+A. No Lead Restrictions When an o ending player's call is withdrawn and it is replaced by a comparable call (see Law 23A), then if he becomes a defender there are no lead
+
+35
+restrictions for his side. Law 16C does not apply, but see Law 23C.
+B. Lead Restrictions When an offending player's call is withdrawn and it is not replaced by a comparable call, then if he becomes a defender, declarer may, at the offender's partner's first turn to lead (which may be the opening lead), prohibit offender's partner from leading any (one) suit which has not been specified in the legal auction by the offender. Such prohibition continues for as long as the offender's partner retains the lead.
+LAW 27
+INSUFFICIENT BID
+A. Acceptance of Insu cient Bid 1. Any insu cient bid may be accepted (treated as legal) at the option of o ender's LHO. It is accepted if that player calls. 2. If a player makes an insu cient bid out of rotation Law 31 applies.
+B. Insu cient Bid Not Accepted If an insu cient bid in rotation is not accepted (see A) it must be corrected by the substitution of a legal call (but see 3 following). Then: 1.(a) if the insu cient bid is corrected by the lowest su cient bid which specifies the same denomination(s) as that specified by the withdrawn call, the auction proceeds without further rectification. Laws 26B and 16C do not apply but see D following. (b) except as in (a), if the insu cient bid is corrected with a comparable call (see Law 23A) the auction proceeds without further rectification. Law 16C does not apply but see D following.
+
+36
+2. except as provided in B1 above, if the insu cient bid is corrected by a su cient bid or by a pass, the o ender's partner must pass whenever it is his turn to call. The lead restrictions in Law 26B may apply, and see Law 72C.
+3. except as provided in B1(b) above, if the o ender attempts to substitute a double or a redouble for his insu cient bid the attempted call is cancelled. The o ender must replace it as the foregoing allows and his partner must then pass whenever it is his turn to call. The lead restrictions in Law 26B may apply, and see Law 72C.
+4. if the o ender attempts to replace the one insu cient bid with another insu cient bid the Director rules as in 3 if the LHO does not accept the substituted insu cient bid as A1 allows.
+C. Premature Replacement If the o ender replaces his insu cient bid before the Director has ruled on rectification, the substitution, if legal, stands unless the insu cient bid is accepted as A1 allows (but see B3 above). The Director applies the relevant foregoing section to the substitution.
+D. Non-o ending Side Damaged If following the application of B1 the Director judges at the end of the play that without assistance gained through the infraction the outcome of the board could well have been di erent, and in consequence the non-o ending side is damaged (see Law 12B1), he shall award an adjusted score. In his adjustment, he should seek to recover as nearly as possible the probable outcome of the board had the insu cient bid not occurred.
+
+37
+LAW 28
+CALLS CONSIDERED TO BE IN ROTATION
+A. RHO Required to Pass A call is considered to be in rotation when it is made by a player at his RHO's turn to call if that opponent is required by law to pass.
+B. Call by Correct Player Cancelling Call Out of Rotation A call is considered to be in rotation when made by a player whose turn it was to call before rectification has been assessed for a call out of rotation by an opponent. Making such a call forfeits the right to rectification for the call out of rotation. The auction proceeds as though the opponent had not called at that turn. Law 26 does not apply, but see Law 16C2.
+LAW 29
+PROCEDURE AFTER A CALL OUT OF ROTATION
+A. Forfeiture of Right to Rectification Following a call out of rotation o ender's LHO may elect to call thereby forfeiting the right to any rectification.
+B. Out-of-Rotation Call Cancelled Unless A applies, a call out of rotation is cancelled and the auction reverts to the player whose turn it was to call. The o ending side is subject to the provisions of Law 30, 31 or 32.
+C. Call Out of Rotation Is Artificial If a call out of rotation is artificial, the provisions of Laws 30, 31 and 32 apply to the denomination(s) specified, rather than the denomination named.
+
+38
+LAW 30
+PASS OUT OF ROTATION
+When a player has passed out of rotation and the call is cancelled, the option in Law 29A not having been exercised, the following provisions apply (if the pass is artificial see C):
+A. RHO's Turn to Call When a pass out of rotation is made at o ender's RHO's turn to call, the o ender must pass when next it is his turn to call and Law 72C may apply.
+B. Partner's or LHO's Turn to Call 1. When the o ender has passed at his partner's turn to call, or at his LHO's turn to call if the o ender has not previously called, then: (a) O ender's partner may make any legal call at his proper turn, but Law 16C2 applies. (b) O ender may make any legal call at his correct turn and: (i.) When the call is a comparable call (see Law 23A), there is no further rectification. Law 26B does not apply, but see Law 23C. (ii.) When the call is not a comparable call (see Law 23A), o ender's partner must pass when next it is his turn to call. Laws 16C, 26B and 72C may apply. 2. If the o ender has previously called, a pass out of rotation at o ender's LHO's turn to call is treated as a change of call. Law 25 applies.
+C. When Pass Is Artificial When a pass out of rotation is artificial or is a pass of an artificial call, Law 31, not Law 30, applies.
+
+39
+LAW 31
+BID OUT OF ROTATION
+When a player has bid out of rotation, has passed artificially or has passed partner's artificial call (see Law 30C) and the call is cancelled, the option in Law 29A not having been exercised, the following provisions apply:
+A. RHO's Turn to Call When the o ender has called at his RHO's turn to call, then: 1. If that opponent passes, o ender must repeat the call out of rotation, and when that call is legal there is no rectification. 2. If that opponent makes a legal8 bid, double or redouble, o ender may make any legal call: (a) When the call is a comparable call (see Law 23A), there is no further rectification. Law 26B does not apply, but see Law 23C. (b) When the call is not a comparable call (see Law 23A), o ender's partner must pass when next it is his turn to call. Laws 16C, 26B and 72C may apply.
+B. Partner's or LHO's Turn to Call When the o ender has bid at his partner's turn to call, or at his LHO's turn to call if the o ender has not previously called, then: 1. O ender's partner may make any legal call at his proper turn, but Law 16C2 applies. 2. O ender may make any legal call at his correct turn and the Director rules as in A2(a) or A2(b) above.
+C. Later Bids at LHO's Turn to Call Later bids at LHO's turn to call are treated as changes of call and Law 25 applies.
+8 An illegal call by RHO is rectified as usual.
+
+40
+LAW 32
+DOUBLE OR REDOUBLE OUT OF ROTATION
+A double or redouble out of rotation may be accepted at the option of the opponent next in rotation (see Law 29A), except that an inadmissible double or redouble (see Law 36) may never be accepted. If the call out of rotation is not accepted it is cancelled and:
+A. RHO's Turn to Call If a double or redouble out of rotation has been made at o ender's RHO's turn to call, then: 1. If o ender's RHO passes, o ender must repeat his out-of-rotation double or redouble and there is no rectification unless the double or redouble is inadmissible, in which case Law 36 applies. 2. If o ender's RHO bids, doubles or redoubles, the o ender may in turn make any legal call: (a) When the call is a comparable call (see Law 23A), there is no further rectification. Law 26B does not apply, but see Law 23C. (b) When the call is not a comparable call (see Law 23A), o ender's partner must pass when next it is his turn to call. Laws 16C, 26B and 72C may apply.
+B. O ender's Partner's Turn to Call If a double or redouble out of rotation has been made when it was the o ender's partner's turn to call, then: 1. O ender's partner may make any legal call, but Law 16C2 applies. 2. O ender may make any legal call at his proper turn and the Director rules as in A2(a) or A2(b) above.
+C. Later Calls at LHO's Turn to Call Later calls at LHO's turn to call are treated as changes of call and Law 25 applies.
+
+41
+LAW 33
+SIMULTANEOUS CALLS
+A call made simultaneously with one made by the player whose turn it was to call is deemed to be a subsequent call.
+LAW 34
+RETENTION OF RIGHT TO CALL
+When following a call there have been three consecutive passes, one or more being out of rotation, Law 17D3 applies.
+LAW 35
+INADMISSIBLE CALLS
+The following calls are inadmissible: A. A double or redouble not permitted by Law
+19. Law 36 applies. B. A bid, double or redouble by a player required
+to pass. Law 37 applies. C. A bid of more than seven. Law 38 applies. D. A call after the final pass of the auction.
+Law 39 applies.
+LAW 36
+INADMISSIBLE DOUBLES AND REDOUBLES
+A. O ender's LHO Calls before Rectification If o ender's LHO calls before rectification of an inadmissible double or redouble the inadmissible call and all subsequent calls are cancelled. The auction reverts to the player whose turn it was to call and proceeds as though there had been no irregularity. The lead restrictions in Law 26B do not apply.
+
+42
+B. O ender's LHO does not Call before Rectification When A does not apply: 1. any double or redouble not permitted by Law 19 is cancelled. 2. the o ender must substitute a legal call, the auction continues, and the o ender's partner must pass whenever it is his turn to call. 3. Law 72C may apply. The lead restrictions in Law 26B may apply. 4. if the call is out of turn the auction reverts to the player whose turn it was to call, the o ender may make any legal call at his turn, and his partner must pass whenever it is his turn to call. Law 72C may apply. The lead restrictions in Law 26B may apply.
+C. Irregularity Discovered after the Auction Period When attention is drawn to an inadmissible double or redouble only after the opening lead has been faced, the final contract is scored as if the inadmissible call had not been made.
+LAW 37
+ACTION VIOLATING OBLIGATION TO PASS
+A. O ender's LHO Calls before Rectification If the inadmissible call was a bid or a double or redouble by a player required by law to pass (but not an action contrary to Law 19A1 or Law 19B1) and o ender's LHO calls before the Director has ruled on rectification, that call and all subsequent calls stand. If the o ender was required to pass for the remainder of the auction he must still pass at subsequent turns. The lead restrictions in Law 26B do not apply.
+B. O ender's LHO does not Call before Rectification When A does not apply:
+
+43
+1. any bid, double or redouble, by a player required by law to pass is cancelled.
+2. a pass is substituted, the auction continues and each member of the o ending side must pass whenever it is his turn to call. Law 72C may apply. The lead restrictions in Law 26B may apply.
+LAW 38
+BID OF MORE THAN SEVEN
+A. No Play Permissible No play of a contract of more than seven is ever permissible.
+B. Bid and Subsequent Calls Cancelled A bid of more than seven is cancelled together with any subsequent calls.
+C. O ending Side Must Pass A pass must be substituted; the auction continues unless completed and each member of the o ending side must pass whenever it is his turn to call.
+D. Possible Lack of Recourse to Laws 26B and 72C Law 72C may apply and the lead restrictions in Law 26B may apply, except that if the o ender's LHO had called subsequent to the infraction and before rectification there is no recourse to these Laws.
+LAW 39
+CALL AFTER THE FINAL PASS
+A. Calls Cancelled All calls after the final pass of the auction are cancelled.
+
+44
+B. Pass by Defender or Any Call by Declaring Side If o ender's LHO calls before rectification, or if the infraction is a pass by a defender or any call by the future declarer or dummy, then there is no further rectification.
+C. Other Action by Defender If o ender's LHO has not called subsequent to the infraction and the infraction is a bid, double or redouble by a defender, then the lead restrictions in Law 26B may apply.
+LAW 40
+PARTNERSHIP UNDERSTANDINGS
+A. Players' Systemic Agreements 1.(a) Partnership understandings as to the methods adopted by a partnership may be reached explicitly in discussion or implicitly through mutual experience or awareness of the players. (b) Each partnership has a duty to make its partnership understandings available to its opponents. The Regulating Authority specifies the manner in which this is done. 2. Information conveyed to partner through such understandings must arise from the calls, plays and conditions of the current deal. Each player is entitled to take into account the legal auction and, subject to any exclusions in these laws, the cards he has seen. He is entitled to use information specified elsewhere in these laws to be authorized. (See Law 73C.) 3. A player may make any call or play without prior announcement provided that such call or play is not based on an undisclosed partnership understanding (see Law 40C1).
+
+45
+4. The agreed meaning of a call or play shall not alter by reference to the member of the partnership by whom it is made (this requirement does not restrict style and judgment, only method).
+B. Special Partnership Understandings 1.(a) An agreement between partners, whether explicit or implicit, is a partnership understanding. (b) In its discretion, the Regulating Authority may designate certain partnership understandings as `special partnership understandings'. A special partnership understanding is one whose meaning, in the opinion of the Regulating Authority, may not be readily understood and anticipated by a significant number of players in the tournament. (c) Unless the Regulating Authority decides otherwise, any call that has an artificial meaning constitutes a special partnership understanding. 2.(a) The Regulating Authority: (i.) is empowered without restriction to allow, disallow, or allow conditionally, any special partnership understanding. (ii.) may prescribe a System Card, with or without supplementary sheets, for the prior listing of a partnership's understandings, and regulate its use. (iii.) may prescribe alerting procedures and/ or other methods of disclosure of a partnership's methods. (iv.) may disallow prior agreement by a partnership to vary its understandings during the auction or play following an irregularity committed by the opponents.
+
+46
+(v.) may restrict the use of psychic artificial calls.
+(b) Unless the Regulating Authority provides otherwise a player may not consult his own system card between the commencement of the auction period and the end of play, except that players of the declaring side (only) may consult their own system card during the Clarification Period.
+(c) Unless the Regulating Authority provides otherwise a player may consult his opponent's system card: (i.) prior to the commencement of the auction, (ii.) during the Clarification Period, (iii.) during the auction and during the play but only at his turn to call or play, and (iv.) following an opponent's request for an explanation, pursuant to Law 20F, for the purpose of correctly explaining the significance of his partner's call or play.
+(d) Unless the Regulating Authority provides otherwise a player is not entitled to any aids to his memory, calculation or technique during the auction period and play.
+3.(a) A side that is damaged as a consequence of its opponents' failure to provide disclosure of the meaning of a call or play, as these laws require, is entitled to rectification through the award of an adjusted score.
+(b) Repeated violations of requirements to disclose partnership understandings may be penalized.
+4. When a side is damaged by an opponent's use of a special partnership understanding that does not comply with the regulations governing the tournament the score shall be adjusted. A side in breach of those regulations may be subject to a procedural penalty.
+
+47
+5.(a) When explaining the significance of partner's call or play in reply to an opponent's enquiry (see Law 20) a player shall disclose all special information conveyed to him through partnership agreement or partnership experience but he need not disclose inferences drawn from his knowledge and experience of matters generally known to bridge players.
+(b) The Director adjusts the score if information not given in an explanation is crucial for an opponent's choice of action and the opponent is thereby damaged.
+C. Deviation from System and Psychic Action 1. A player may deviate from his side's announced understandings, provided that his partner has no more reason than the opponents to be aware of the deviation [but see B2(a)(v) above]. Repeated deviations lead to implicit understandings which then form part of the partnership's methods and must be disclosed in accordance with the regulations governing disclosure of system. If the Director judges there is undisclosed knowledge that has damaged the opponents, he shall adjust the score and may assess a procedural penalty. 2. Other than in C1 above, no player is obliged to disclose to the opponents that he has deviated from his announced methods.
+
+48
+LAW 41
+COMMENCEMENT OF PLAY
+A. Face-down Opening Lead After a bid, double or redouble has been followed by three passes in rotation, the defender on presumed declarer's left makes the opening lead face down9. The face-down lead may be withdrawn only upon instruction of the Director after an irregularity (see Laws 47E and 54); the withdrawn card must be returned to the defender's hand.
+B. Review of Auction and Questions Before the opening lead is faced, the leader's partner and the presumed declarer (but not the presumed dummy) each may require a review of the auction, or request explanation of an opponent's call (see Law 20F2 and 20F3). Declarer10 or either defender may, at his first turn to play a card, require a review of the auction; this right expires when he plays a card. The defenders (subject to Law 16) and the declarer retain the right to request explanations throughout the play period, each at his own11 turn to play.
+C. Opening Lead Faced Following this Clarification Period, the opening lead is faced, the play period begins irrevocably, and dummy's hand is spread (but see Law 54A for a faced opening lead out of turn). After it is too late to have previous calls restated (see B), declarer or either defender, at his own11 turn to play, is entitled to be informed as to what the contract is and whether, but not by whom, it was doubled or redoubled.
+9 Regulating Authorities may specify that opening leads be made face up.
+10 Declarer's first turn to play is from dummy unless accepting an opening lead out of turn.
+11 Declarer may enquire at his turn to play from dummy or from his own hand.
+
+49
+D. Dummy's Hand After the opening lead is faced, dummy spreads his hand in front of him on the table, face up, sorted into suits, the cards in order of rank with lowest ranking cards towards declarer, and in separate columns pointing lengthwise towards declarer. Trumps are placed to dummy's right. Declarer plays both his hand and that of dummy.
+LAW 42
+DUMMY'S RIGHTS
+A. Absolute Rights 1. Dummy is entitled to give information, in the Director's presence, as to fact or law. 2. He may keep count of tricks won and lost. 3. He plays the cards of the dummy as declarer's agent as directed and ensures that dummy follows suit (see Law 45F if dummy suggests a play).
+B. Qualified Rights Dummy may exercise other rights subject to the limitations stated in Law 43. 1. Dummy may ask declarer (but not a defender) when he has failed to follow suit to a trick whether he has a card of the suit led. 2. He may try to prevent any irregularity. 3. He may draw attention to any irregularity, but only after play of the hand is concluded.
+LAW 43
+DUMMY'S LIMITATIONS
+Except as Law 42 allows:
+A. Limitations on Dummy 1.(a) Dummy may not initiate a call for the Director during play unless another player has drawn attention to an irregularity.
+
+50
+(b) Dummy may not call attention to an irregularity during play.
+(c) Dummy must not participate in the play, nor may he communicate anything about the play to declarer.
+2.(a) Dummy may not exchange hands with declarer.
+(b) Dummy may not leave his seat to watch declarer's play of the hand.
+(c) Dummy may not look at the face of a card in either defender's hand.
+3. A defender may not show dummy his hand.
+B. If Violation Occurs 1. Dummy is liable to penalty under Law 90 for any violation of the limitations listed in A1 and A2. 2. If dummy, after his violation of the limitations listed in A2: (a) warns declarer not to lead from the wrong hand, either defender may choose the hand from which declarer shall lead. (b) is the first to ask declarer if a play from declarer's hand constitutes a revoke, declarer must substitute a correct card if his play was illegal, and the provisions of Law 64 then apply as if the revoke had been established. 3. If dummy after his violation of the limitations listed in A2 is the first to draw attention to a defender's irregularity, there is no immediate rectification. Play continues as though no irregularity had occurred. At the end of play if the defending side has gained through its irregularity the Director adjusts only its score, taking away that advantage. The declaring side retains the score achieved at the table.
+
+51
+LAW 44
+SEQUENCE AND PROCEDURE OF PLAY
+A. Lead to a Trick The player who leads to a trick may play any card in his hand (unless he is subject to restriction after an irregularity committed by his side).
+B. Subsequent Plays to a Trick After the lead, each other player in turn plays a card, and the four cards so played constitute a trick. (For the method of playing cards and arranging tricks see Laws 45 and 65 respectively.)
+C. Requirement to Follow Suit In playing to a trick, each player must follow suit if possible. This obligation takes precedence over all other requirements of these Laws.
+D. Inability to Follow Suit If unable to follow suit, a player may play any card (unless he is subject to restriction after an irregularity committed by his side).
+E. Tricks Containing Trumps A trick containing a trump is won by the player who has contributed to it the highest trump.
+F. Tricks Not Containing Trumps A trick that does not contain a trump is won by the player who has contributed to it the highest card of the suit led.
+G. Lead to Tricks Subsequent to First Trick The lead to the next trick is from the hand in which the last trick was won.
+
+52
+LAW 45
+CARD PLAYED
+A. Play of Card from a Hand Each player except dummy plays a card by detaching it from his hand and facing12 it on the table immediately before him.
+B. Play of Card from Dummy Declarer plays a card from dummy by naming the card, after which dummy picks up the card and faces it on the table. In playing from dummy's hand declarer may, if necessary, pick up the desired card himself.
+C. Card Deemed to be Played 1. A defender's card held so that it is possible for his partner to see its face is deemed played to the current trick (if the defender has already made a legal play to the current trick, see Law 45E). 2. Declarer is deemed to have played a card from his hand if it is: (a) held face up, touching or nearly touching the table; or (b) maintained in such a position as to indicate that it has been played. 3. A card in the dummy is played if it has been deliberately touched by declarer except for the purpose either of arranging dummy's cards, or of reaching a card above or below the card or cards touched. 4.(a) A card is played if a player names or otherwise designates it as the card he proposes to play (but see Law 47). (b) Declarer may correct an unintended designation of a card from dummy until he next plays a card from either his own hand
+12 The opening lead is first made face down unless the Regulating Authority directs otherwise.
+
+53
+or from dummy. A change of designation may be allowed after a slip of the tongue, but not after a loss of concentration or a reconsideration of action. If an opponent has, in turn, played a card that was legal before the change in designation, that opponent may withdraw the card so played, return it to his hand, and substitute another (see Laws 47D and 16C1). 5. A penalty card, major or minor, may have to be played (see Law 50).
+D. Dummy Picks up a Non-designated Card 1. If dummy places in the played position a card that declarer did not name, the card must be withdrawn if attention is drawn to it before each side has played to the next trick, and a defender may withdraw and return to his hand a card played after the error but before attention was drawn to it; if declarer's RHO changes his play, declarer may withdraw a card he had subsequently played to that trick. (See Law 16C.) 2. When it is too late to change dummy's wrongly placed card (see above), the play continues normally without alteration of the cards played to this or any subsequent trick. If the wrongly placed card was the first card of the trick, then the failure to follow suit to that card may now constitute a revoke (see Laws 64A, 64B7 and 64C). If the wrongly placed card was contributed to a trick already in progress and dummy thereby has revoked, see Laws 64B3 and 64C.
+E. Fifth Card Played to Trick 1. A fifth card contributed to a trick by a defender becomes a penalty card, subject to Law 50, unless the Director deems that it was led, in which case Law 53 or 56 applies.
+
+54
+2. When declarer contributes a fifth card to a trick from his own hand or dummy, it is returned to the hand without further rectification unless the Director deems that it was led, in which case Law 55 applies.
+F. Dummy Indicates Card After dummy's hand is faced, dummy may not touch or indicate any card (except for purpose of arrangement) without instruction from declarer. If he does so the Director should be summoned forthwith and informed of the action. Play continues. At the end of the play the Director shall award an adjusted score if he considers dummy suggested a play to declarer and the defenders were damaged by the play suggested.
+G. Turning the Trick No player should turn his card face down until all four players have played to the trick.
+LAW 46
+INCOMPLETE OR INVALID DESIGNATION OF A CARD FROM DUMMY
+A. Proper Form for Designating Dummy's Card When calling for a card to be played from dummy declarer should clearly state both the suit and the rank of the desired card.
+B. Incomplete or Invalid Designation In the case of an incomplete or invalid designation, the following restrictions apply (except when declarer's di erent intention is incontrovertible): 1.(a) If declarer in playing from dummy calls `high', or words of like meaning, he is deemed to have called the highest card of the suit led.
+
+55
+(b) If he directs dummy to `win' the trick, he is deemed to have called the lowest card that it is known will win the trick.
+(c) If he calls `low', or words of like meaning, he is deemed to have called the lowest card of the suit led.
+2. If declarer designates a suit but not a rank he is deemed to have called the lowest card of the suit indicated.
+3. If declarer designates a rank but not a suit: (a) In leading, declarer is deemed to have continued the suit with which dummy won the preceding trick provided there is a card of the designated rank in that suit. (b) In all other cases declarer must play a card from dummy of the designated rank if he can legally do so; but if there are two or more such cards that can be legally played declarer must designate which is intended.
+4. If declarer calls for a card that is not in dummy the call is invalid and declarer may designate any legal card.
+5. If declarer indicates a play without designating either a suit or a rank (as by saying `play anything' or words of like meaning) either defender may designate the play from dummy.
+LAW 47
+RETRACTION OF CARD PLAYED
+A. In Course of Rectification A card once played may be withdrawn when required by rectification following an irregularity (but a defender's withdrawn card may become a penalty card, see Law 49).
+
+56
+B. To Correct an Illegal Play A played card may be withdrawn to correct an illegal play (for defenders, except as this Law provides, see Law 49 - penalty card). For simultaneous play see Law 58.
+C. To Change an Unintended Designation A played card may be withdrawn and returned to the hand without further rectification after a change of designation permitted by Law 45C4(b).
+D. Following Opponent's Change of Play After an opponent's change of play a played card may be withdrawn and returned to the hand without further rectification and another card may be substituted. (Laws 16C and 62C2 may apply.)
+E. Change of Play Based on Misinformation 1. A lead out of turn (or play of a card) is retracted without further rectification if the player was mistakenly informed by an opponent that it was his turn to lead or play (see Law 16C). A lead or play may not be accepted by his LHO in these circumstances and Law 63A1 does not apply. 2.(a) A player may retract the card he has played because of a mistaken explanation of an opponent's call or play and before a corrected explanation, without further rectification, but only if no card was subsequently played (see Law 16C). An opening lead may not be retracted after dummy has faced any card. (b) When it is too late to correct a play under (a) the Director may award an adjusted score.
+F. Other Retraction 1. A card may be withdrawn as Law 53B provides. 2. Except as this Law specifies, a card once played may not be withdrawn.
+
+57
+LAW 48
+EXPOSURE OF DECLARER'S CARDS
+A. Declarer Exposes a Card Declarer is not subject to restriction for exposing a card (but see Law 45C2), and no card of declarer's or dummy's hand ever becomes a penalty card. Declarer is not required to play any card dropped accidentally.
+B. Declarer Faces Cards 1. When declarer faces his cards after an opening lead out of turn, Law 54 applies. 2. When declarer faces his cards at any time other than immediately after an opening lead out of turn, he may be deemed to have made a claim or concession of tricks (unless he demonstrably did not intend to claim), and Law 68 then applies.
+LAW 49
+EXPOSURE OF A DEFENDER'S CARDS
+Except in the normal course of play or application of law (see for example Law 47E), when a defender's card is in a position in which his partner could possibly see its face, or when a defender names a card as being in his hand, each such card becomes a penalty card (Law 50); but see Law 68 when a defender has made a statement concerning an uncompleted trick currently in progress, and see Law 68B2 when partner objects to a defender's concession.
+
+58
+LAW 50
+DISPOSITION OF PENALTY CARD
+A card prematurely exposed (but not led, see Law 57) by a defender is a penalty card unless the Director designates otherwise (see Law 49 and Law 72C may apply).
+A. Penalty Card Remains Exposed A penalty card must be left face up on the table immediately before the player to whom it belongs, until a rectification has been selected.
+B. Major or Minor Penalty Card A single card below the rank of an honor exposed unintentionally (as in playing two cards to a trick, or in dropping a card accidentally) becomes a minor penalty card. Any card of honor rank, or any card exposed through deliberate play (for example in leading out of turn, or in revoking and then correcting), becomes a major penalty card; when one defender has two or more penalty cards, all such cards become major penalty cards.
+C. Disposition of Minor Penalty Card When a defender has a minor penalty card, he may not play any other card of the same suit below the rank of an honor until he has first played the penalty card, but he is entitled to play an honor card instead. O ender's partner is not subject to lead restriction, but see E following.
+D. Disposition of Major Penalty Card When a defender has a major penalty card, both the o ender and his partner may be subject to restriction, the o ender whenever he is to play, the partner whenever he is to lead. 1.(a) Except as provided in (b) below, a major penalty card must be played at the first legal opportunity, whether in leading, following suit, discarding or trumping.
+
+59
+If a defender has two or more penalty cards that can legally be played, declarer designates which is to be played. (b) The obligation to follow suit, or to comply with a lead or play restriction, takes precedence over the obligation to play a major penalty card, but the penalty card must still be left face up on the table and played at the next legal opportunity. 2. When a defender has the lead while his partner has a major penalty card, he may not lead until declarer has stated which of the options below is selected (if the defender leads prematurely, he is subject to rectification under Law 49). Declarer may choose: (a) to require13 the defender to lead the suit of the penalty card, or to prohibit13 him from leading that suit for as long as he retains the lead (for two or more penalty cards, see Law 51); if declarer exercises either of these options, the card is no longer a penalty card and is picked up. (b) not to require or prohibit a lead, in which case the defender may lead any card and the penalty card remains on the table as a penalty card14. If this option is selected Law 50D continues to apply for as long as the penalty card remains.
+E. Information from a Penalty Card 1. Information derived from a penalty card and the requirements for playing that penalty card are authorized for all players for as long as the penalty card remains on the table.
+13 If the player is unable to lead as required see Law 59. 14 If the partner of the defender with the penalty card
+retains the lead, and the penalty card has not yet been played, then all the requirements and options of Law 50D2 apply again at the following trick.
+
+60
+2. Information derived from a penalty card that has been returned to hand [as per Law 50D2(a)] is unauthorized for the partner of the player who had the penalty card (see Law 16C), but authorized for declarer.
+3. Once a penalty card has been played, information derived from the circumstances under which it was created is unauthorized for the partner of the player who had the card. (For a penalty card which has not yet been played, see E1 above.)
+4. If following the application of E1 the Director judges at the end of play that without the assistance gained through the exposed card the outcome of the board could well have been di erent, and in consequence the nono ending side is damaged (see Law 12B1), he shall award an adjusted score. In his adjustment, he should seek to recover as nearly as possible the probable outcome of the board without the e ect of the penalty card(s).
+LAW 51
+TWO OR MORE PENALTY CARDS
+A. O ender to Play If it is a defender's turn to play and that defender has two or more penalty cards that can legally be played, declarer designates which is to be played at that turn.
+B. O ender's Partner to Lead 1.(a) When a defender has two or more penalty cards in one suit, and declarer requires13 the defender's partner to lead that suit, the cards of that suit are no longer penalty cards and are picked up; the defender may make any legal play to the trick.
+
+61
+(b) When a defender has two or more penalty cards in one suit, and declarer prohibits13 the defender's partner from leading that suit, the defender picks up every penalty card in that suit and may make any legal play to the trick. The prohibition continues until the player loses the lead.
+2.(a) When a defender has penalty cards in more than one suit [see Law 50D2(a)] and his partner is to lead, declarer may require15 the defender's partner to lead a specified suit in which the defender has a penalty card [but B1(a) preceding then applies].
+(b) When a defender has penalty cards in more than one suit and his partner is to lead, declarer may prohibit15 the defender's partner from leading one or more of such suits; the defender then picks up every penalty card in every suit prohibited by declarer and makes any legal play to the trick. The prohibition continues until the player loses the lead.
+(c) When a defender has penalty cards in more than one suit and his partner is to lead, declarer may elect not to require or prohibit a lead, in which case the defender's partner may lead any card and the penalty cards remain on the table as penalty cards16. If this option is selected Laws 50 and 51 continue to apply for as long as the penalty cards remain.
+15 If the player is unable to lead as required see Law 59. 16 If the partner of the defender with the penalty cards
+retains the lead, then all the requirements and options of Law 51B2 apply again at the following trick.
+
+62
+LAW 52
+FAILURE TO LEAD OR PLAY A PENALTY CARD
+A. Defender Fails to Play Penalty Card When a defender fails to lead or play a penalty card as required by Law 50 or Law 51, he may not, on his own initiative, withdraw any other card he has played.
+B. Defender Plays Another Card 1.(a) If a defender has led or played another card when required by law to play a penalty card, declarer may accept such lead or play. (b) Declarer must accept such lead or play if he has thereafter played from his own hand or dummy. (c) If the played card is accepted under either (a) or (b) any unplayed penalty card remains a penalty card. 2. If declarer does not accept the card illegally played or led the defender must substitute the penalty card for the card illegally played or led. Every card illegally led or played by the defender in the course of committing the irregularity becomes a major penalty card.
+LAW 53
+LEAD OUT OF TURN ACCEPTED
+A. Lead Out of Turn Treated as Correct Lead Prior to the thirteenth trick17, any lead faced out of turn may be treated as a correct lead (but see Law 47E1). It becomes a correct lead if declarer or either defender, as the case may be, accepts it by making a statement to that e ect, or if a play is made from the hand next in rotation to
+17 A lead out of turn at trick thirteen must be retracted.
+
+63
+the irregular lead (but see B). If there is no such acceptance or play, the Director will require that the lead be made from the correct hand (and see Law 47B).
+B. Proper Lead Made Subsequent to Irregular Lead Subject to Law 53A, if it was properly the turn to lead of an opponent of the player who led out of turn, that opponent may make his proper lead to the trick of the infraction without his card being deemed played to the irregular lead. When this occurs, the proper lead stands and all cards played in error to this trick may be withdrawn, but Law 16C applies.
+C. Wrong Defender Plays Card to Declarer's Irregular Lead If declarer leads out of turn from either his own hand or from dummy, and the defender to the right of the irregular lead plays a card (but see B), the lead stands and Law 57 applies.
+LAW 54
+FACED OPENING LEAD OUT OF TURN
+When an opening lead out of turn is faced and o ender's partner leads face down, the Director requires the face down lead to be retracted. Also:
+A. Declarer Spreads His Hand After a faced opening lead out of turn, declarer may spread his hand; he becomes dummy. If declarer begins to spread his hand, and in doing so exposes one or more cards, he must spread his entire hand. Dummy becomes declarer.
+B. Declarer Accepts Lead When a defender faces the opening lead out of turn declarer may accept the irregular lead as provided in Law 53, and dummy is spread in accordance with Law 41.
+
+64
+1. The second card to the trick is played from declarer's hand.
+2. If declarer plays the second card to the trick from dummy, dummy's card may not be withdrawn except to correct a revoke.
+C. Declarer Must Accept Lead If declarer could have seen any of dummy's cards (except cards that dummy may have exposed during the auction and that were subject to Law 24), he must accept the lead and the presumed declarer then becomes declarer.
+D. Declarer Refuses Opening Lead Declarer may require a defender to retract his faced opening lead out of turn. The withdrawn card becomes a major penalty card and Law 50D applies.
+E. Opening Lead by Wrong Side If a player of the declaring side attempts to make an opening lead Law 24 applies.
+LAW 55
+DECLARER'S LEAD OUT OF TURN
+A. Declarer's Lead Accepted If declarer has led out of turn from his or dummy's hand then either defender may accept the lead as provided in Law 53 or require its retraction (after misinformation, see Law 47E1). If the defenders choose di erently then the option expressed by the player next in turn to the irregular lead shall prevail.
+B. Declarer Required to Retract Lead 1. If declarer has led from his or dummy's hand when it was a defender's turn to lead, and has been required to retract such lead per Law 55A, declarer restores the card led in error to the proper hand. No further rectification applies.
+
+65
+2. If declarer has led from the wrong hand when it was his turn to lead from his hand or dummy's, and has been required to retract the lead per Law 55A, he withdraws the card led in error. He must lead from the correct hand.
+C. Declarer Might Obtain Information When declarer adopts a line of play that could have been based on information obtained through his infraction, Law 16 applies.
+LAW 56
+DEFENDER'S LEAD OUT OF TURN
+When a lead out of turn is faced, declarer may: A. Accept the irregular lead as provided in
+Law 53, or B. Require the defender to retract his faced lead
+out of turn. The withdrawn card becomes a major penalty card and Law 50D applies.
+LAW 57
+PREMATURE LEAD OR PLAY
+A. Premature Play or Lead to Next Trick When a defender leads to the next trick before his partner has played to the current trick, or plays out of turn before his partner has played, the card so led or played becomes a major penalty card, and declarer selects one of the following options. He may: 1. require o ender's partner to play the highest card he holds of the suit led, or 2. require o ender's partner to play the lowest card he holds of the suit led, or 3. require o ender's partner to play a card of another suit specified by declarer, or
+
+66
+4. forbid o ender's partner to play a card of another suit specified by declarer.
+B. O ender's Partner Cannot Comply with Rectification When o ender's partner is unable to comply with the rectification selected by declarer (see A above) he may play any card, as provided in Law 59.
+C. Declarer or Dummy Has Played 1. A defender is not subject to rectification for playing before his partner if declarer has played from both hands. However, a card is not considered to be played from dummy until declarer has instructed (or otherwise indicated18) the play. 2. A defender is not subject to rectification for playing before his partner if dummy has of his own volition prematurely selected a card before his RHO or has illegally suggested that one be played. 3. A premature play (not a lead) by declarer from either hand is a played card and if legal may not be withdrawn.
+D. Premature Play at RHO's Turn When a defender attempts to play (not lead) to a trick at his RHO's turn, Law 16 may apply. If his card can be legally played to the trick, it must be played at his proper turn: otherwise, it becomes a major penalty card.
+LAW 58
+SIMULTANEOUS LEADS OR PLAYS
+A. Simultaneous Plays by Two Players A lead or play made simultaneously with another player's legal lead or play is deemed to be subsequent to it.
+18 as by a gesture or nod
+
+67
+B. Simultaneous Cards from One Hand If a player leads or plays two or more cards simultaneously: 1. If the face of only one card is visible, that card is played; all other cards are picked up and there is no further rectification (see Law 47F). 2. If the face of more than one card is visible, the o ending player designates the card he proposes to play; when he is a defender, each other card exposed becomes a penalty card (see Law 50). 3. After an o ending player withdraws a visible card, an opponent who subsequently played to that trick may withdraw his play and substitute another card without further rectification (but see Law 16C). 4. If the simultaneous play remains undiscovered until both sides have played to the next trick, Law 67 applies.
+LAW 59
+INABILITY TO LEAD OR PLAY AS REQUIRED
+A player may play any otherwise legal card if he is unable to lead or play as required to comply with a rectification, whether because he holds no card of the required suit, or because he has only cards of a suit he is prohibited from leading, or because he is obliged to follow suit.
+LAW 60
+PLAY AFTER AN ILLEGAL PLAY
+A. Play of Card after Irregularity 1. A play by a member of the non-o ending side after his RHO has led or played out of turn or prematurely, and before rectification has been assessed, forfeits the right to rectification of that o ense.
+
+68
+2. Once the right to rectification has been forfeited, the illegal play is treated as though it were in turn (except when Law 53B applies).
+3. If the o ending side has a previous obligation to play a penalty card, or to comply with a lead or play restriction, the obligation remains at future turns.
+B. Defender Plays before Required Lead by Declarer When a defender plays a card after declarer has been required to retract his lead out of turn from either hand, but before declarer has led from the correct hand, the defender's card becomes a major penalty card (Law 50).
+C. Play by O ending Side before Assessment of Rectification A play by a member of the o ending side before rectification has been assessed does not a ect the rights of the opponents, and may itself be subject to rectification.
+LAW 61
+FAILURE TO FOLLOW SUIT - INQUIRIES CONCERNING A REVOKE
+A. Definition of Revoke Failure to follow suit in accordance with Law 44 or failure to lead or play, when able, a card or suit required by law or specified by an opponent when exercising an option in rectification of an irregularity, constitutes a revoke. (When unable to comply see Law 59.)
+B. Right to Inquire about a Possible Revoke 1. Declarer may ask a defender who has failed to follow suit whether he has a card of the suit led.
+
+69
+2.(a) Dummy may ask declarer [but see Law 43B2(b)].
+(b) Dummy may not ask a defender and Law 16B may apply.
+3. Defenders may ask declarer and one another (at the risk of creating unauthorized information).
+C. Right to Inspect Tricks A claim of a revoke does not automatically warrant inspection of quitted tricks (see Law 66C).
+LAW 62
+CORRECTION OF A REVOKE
+A. Revoke Must Be Corrected A player must correct his revoke if attention is drawn to the irregularity before it becomes established.
+B. Correcting a Revoke To correct a revoke the offender withdraws the card he played and substitutes a legal card. 1. A card so withdrawn becomes a major penalty card (Law 50) if it was played from a defender's unfaced hand. 2. The card may be replaced without further rectification if it was played from declarer's [subject to Law 43B2(b)] or dummy's hand, or if it was a defender's faced card.
+C. Subsequent Cards Played 1. Each member of the non-offending side may withdraw and return to his hand any card he may have played after the revoke but before attention was drawn to it (see Law 16C). 2.After a non-offender so withdraws a card, the player of the offending side next in rotation may withdraw his played card, which becomes a penalty card if the player is a defender (see Law 16C).
+
+70
+3. If both sides revoke on the same trick and only one side has played to the subsequent trick, then both revokes must be corrected (see Law 16C2). Every card withdrawn by the defending side becomes a penalty card.
+D. Revoke on Trick Twelve 1. On the twelfth trick, a revoke, even if established, must be corrected if discovered before all four hands have been returned to the board. 2. If a defender revokes on the twelfth trick before his partner's turn to play to the trick, Law 16C applies.
+LAW 63
+ESTABLISHMENT OF A REVOKE
+A. Revoke Becomes Established A revoke becomes established: 1. when the o ender or his partner leads or plays to the following trick (any such play, legal or illegal, establishes the revoke). 2. when the o ender or his partner names or otherwise designates a card to be played to the following trick. 3. when a member of the o ending side makes a claim or concession of tricks orally or by facing his hand or in any other way. 4. when agreement is established (as per Law 69A) to an opponent's claim or concession; the o ending side having raised no objection to it before the end of the round, or before making a call on a subsequent board.
+B. Revoke May Not Be Corrected Once a revoke is established, it may no longer be corrected (except as provided in Law 62D for a revoke on the twelfth trick or as in Law 62C3), and the trick on which the revoke occurred stands as played.
+
+71
+LAW 64
+PROCEDURE AFTER ESTABLISHMENT OF A REVOKE
+A. Automatic Trick Adjustment When a revoke is established: 1. and the trick on which the revoke occurred was won by the o ending player19, at the end of the play the trick on which the revoke occurred is transferred to the non-o ending side together with one of any subsequent tricks won by the o ending side. 2. and the trick on which the revoke occurred was not won by the o ending player19 then, if the o ending side won that or any subsequent trick, after play ends one trick is transferred to the non-o ending side.
+B. No Automatic Trick Adjustment There is no automatic trick adjustment following an established revoke (but see Law 64C) if: 1. the o ending side did not win either the revoke trick or any subsequent trick. 2. it is a subsequent revoke in the same suit by the same player, the first revoke having been established. 3. the revoke was made in failing to play a penalty card or any card belonging to dummy. 4. attention was first drawn to the revoke after a member of the non-o ending side has made a call on the subsequent deal. 5. attention was first drawn to the revoke after the round has ended. 6. it is a revoke on the twelfth trick. 7. both sides have revoked on the same board and both revokes have become established. 8. the revoke has been corrected as per Law 62C3.
+19 A trick won in dummy is not won by declarer for the purposes of this Law.
+
+72
+C. Redress of Damage 1. When, after any established revoke, including those not subject to trick adjustment, the Director deems that the non-o ending side is insu ciently compensated by this Law for the damage caused, he shall assign an adjusted score. 2.(a) After repeated revokes by the same player in the same suit (see B2 above), the Director adjusts the score if the nono ending side would likely have made more tricks had one or more of the subsequent revokes not occurred. (b) When both sides have revoked on the same board (see B7 above) and the Director deems that a contestant has been damaged, he shall award an adjusted scored based on the likely result had no revokes occurred.
+LAW 65
+ARRANGEMENT OF TRICKS
+A. Completed Trick When four cards have been played to a trick, each player turns his own card face down near him on the table.
+B. Keeping Track of the Ownership of Tricks 1. If the player's side has won the trick, the card is pointed lengthwise toward his partner. 2. If the opponents have won the trick, the card is pointed lengthwise toward the opponents. 3. A player may draw attention to a card pointed incorrectly, but this right expires when his side leads or plays to the following trick. If done later Law 16B may apply.
+
+73
+C. Orderliness Each player arranges his own cards in an orderly overlapping row in the sequence played, so as to permit review of the play after its completion, if necessary to determine the number of tricks won by each side or the order in which the cards were played.
+D. Agreement on Results of Play A player should not disturb the order of his played cards until agreement has been reached on the number of tricks won. A player who fails to comply with the provisions of this Law jeopardizes his right to claim ownership of doubtful tricks or to claim (or deny) a revoke.
+LAW 66
+INSPECTION OF TRICKS
+A. Current Trick So long as his side has not led or played to the next trick, declarer or either defender may, until he has turned his own card face down on the table, require that all cards just played to the trick be faced.
+B. Own Last Card Until his side has led or played to the next trick, declarer or either defender may inspect, but not expose, his own last card played.
+C. Quitted Tricks Thereafter, until play ceases, the cards of quitted tricks may not be inspected (except at the Director's specific instruction; for example, if necessary to verify a claim of a revoke).
+
+74
+D. After the Conclusion of Play After play ceases, the played and unplayed cards may be inspected to settle a claim of a revoke, or of the number of tricks won or lost; but no player should handle cards other than his own. If the Director can no longer ascertain the facts after such a claim has been made, and only one side has mixed its cards, the Director shall rule in favor of the other side.
+LAW 67
+DEFECTIVE TRICK
+A. Before Both Sides Play to Next Trick When a player has omitted to play to a trick, or has played too many cards to a trick, the error must be rectified if attention is drawn to the irregularity before a player on each side has played to the following trick. 1. To rectify omission to play to a trick, the o ender supplies a card he can legally play. 2. To rectify the play of too many cards to a trick, Law 45E (Fifth Card Played to a Trick) or Law 58B (Simultaneous Cards from One Hand) shall be applied.
+B. After Both Sides Play to Next Trick When the Director determines that there has been a defective trick (from the fact that one player has too few or too many cards in his hand, and a correspondingly incorrect number of played cards); both sides having played to the next trick, he proceeds as follows: 1. When the o ender has failed to play a card to the defective trick, the Director shall require him forthwith to expose a card face-up in front of him and then place it appropriately among his played cards (this card does not a ect ownership of the trick); if (a) the o ender has a card of the suit led to
+
+75
+the defective trick; he must choose such a card to place among his played cards. He is deemed to have revoked on the defective trick and is subject to the loss of one trick transferred in accordance with Law 64A2. (b) the o ender has no card of the suit led to the defective trick; he chooses any card to place among his played cards. He is deemed to have revoked on the defective trick and is subject to the loss of one trick transferred in accordance with Law 64A2. 2.(a) When the o ender has played more than one card to the defective trick, the Director inspects the played cards and requires the o ender to restore to his hand all extra cards20, leaving among the played cards the one faced in playing to the defective trick (if the Director is unable to determine which card was faced, the o ender leaves the highest ranking of the cards that he could legally have played to the trick). Ownership of the defective trick does not change. (b) A restored card is deemed to have belonged continuously to the o ender's hand, and a failure to have played it to an earlier trick may constitute a revoke. 3. When the Director determines that the o ender did play a card to the trick, but that card was not placed among the quitted tricks, the Director finds the card and places it correctly among the o ender's played cards. The Director shall award an adjusted score if the same card was played to a subsequent trick and it is too late to correct the illegal play.
+20 The Director should avoid, when possible, exposing a defender's played cards, but if an extra card to be restored to a defender's hand has been exposed, it becomes a penalty card (see Law 50).
+
+76
+LAW 68
+CLAIM OR CONCESSION OF TRICKS
+For a statement or action to constitute a claim or concession of tricks under these Laws, it must refer to tricks other than one currently in progress. If the statement or action pertains only to the winning or losing of an uncompleted trick currently in progress, play proceeds regularly; cards exposed or revealed by a defender do not become penalty cards, but Laws 16 and 57A may apply.
+A. Claim Defined Any statement by declarer or a defender to the e ect that a side will win a specific number of tricks is a claim of those tricks. A player also claims when he suggests that play be curtailed, or when he shows his cards (unless he demonstrably did not intend to claim - for example, if declarer faces his cards after an opening lead out of turn Law 54, not this Law, will apply).
+B. Concession Defined 1. Any statement by declarer or a defender to the e ect that a side will lose a specific number of tricks is a concession of those tricks; a claim of some number of tricks is a concession of the remainder, if any. A player concedes all the remaining tricks when he abandons his hand. 2. Regardless of B1, if a defender attempts to concede one or more tricks and his partner immediately objects; neither a concession nor a claim has occurred. Unauthorized information may exist, so the Director should be summoned immediately. Play continues. Any card that has been exposed by a defender in these circumstances is not a penalty card but Law 16C applies to information arising from its exposure and the information may not be used by the partner of the defender who has exposed it.
+
+77
+C. Clarification Required A claim should be accompanied at once by a clear statement of the line of play or defense through which the claimer proposes to win the tricks claimed, including the order in which the cards will be played. The player making the claim or concession faces his hand.
+D. Suspension of Play After any claim or concession, play is suspended. 1. If the claim or concession is agreed, Law 69 applies. 2. If it is doubted by any player (dummy included); either (a) the Director may immediately be summoned and no action should be taken pending his arrival, Law 70 applies; or (b) upon the request of the non-claiming or non-conceding side, play may continue subject to the following: (i) all four players must concur; otherwise the Director is summoned, who then proceeds as in (a) above. (ii) the prior claim or concession is void and not subject to adjudication. Laws 16 and 50 do not apply, and the score subsequently obtained shall stand.
+LAW 69
+AGREED CLAIM OR CONCESSION
+A. Establishment of Agreement Agreement is established when a side assents to an opponent's claim or concession, and raises no objection to it before making a call on a subsequent board or before the round ends, whichever occurs first. The board is scored as though the tricks claimed or conceded had been won or lost in play.
+
+78
+B. Withdrawal of Established Agreement Agreement with a claim or concession (see A) may be withdrawn within the Correction Period established under Law 79C: 1. if a player agreed to the loss of a trick his side had, in fact, won; or 2. if a player has agreed to the loss of a trick that his side would likely have won had the play continued. The board is rescored with such trick awarded to his side.
+LAW 70
+CONTESTED CLAIM OR CONCESSION
+A. General Objective In ruling on a contested claim or concession, the Director adjudicates the result of the board as equitably as possible to both sides, but any doubtful point as to a claim shall be resolved against the claimer. The Director proceeds as follows.
+B. Clarification Statement Repeated 1. The Director requires claimer to repeat the clarification statement he made at the time of his claim. 2. Next, the Director hears the opponents' objections to the claim (but the Director's considerations are not limited only to the opponents' objections). 3. The Director may require players to put their remaining cards face up on the table.
+C. There Is an Outstanding Trump When a trump remains in one of the opponents' hands, the Director shall award a trick or tricks to the opponents if: 1. claimer made no statement about that trump, and
+
+79
+2. it is at all likely that claimer at the time of his claim was unaware that a trump remained in an opponent's hand, and
+3. a trick could be lost to that trump by any normal21 play.
+D. Director's Considerations 1. The Director shall not accept from claimer any successful line of play not embraced in the original clarification statement if there is an alternative normal21 line of play that would be less successful. 2. The Director does not accept any part of a defender's claim that depends on his partner selecting a particular play from among alternative normal21 plays.
+E. Unstated Line of Play 1. The Director shall not accept from claimer any unstated line of play the success of which depends upon finding one opponent rather than the other with a particular card, unless an opponent failed to follow to the suit of that card before the claim was made, or would subsequently fail to follow to that suit on any normal21 line of play. 2. The Regulating Authority may specify an order (e.g. "from the top down") in which the Director shall deem a suit played if this was not clarified in the statement of claim (but always subject to any other requirement of this Law).
+21 For the purposes of Laws 70 and 71, "normal" includes play that would be careless or inferior for the class of player involved.
+
+80
+LAW 71
+CONCESSION CANCELLED
+A concession must stand, once made, except that within the Correction Period established under Law 79C the Director shall cancel a concession:
+A. if a player conceded a trick his side had, in fact, won; or
+B. if a player has conceded a trick that could not be lost by any normal22 play of the remaining cards.
+The board is rescored with such trick awarded to his side.
+LAW 72
+GENERAL PRINCIPLES
+A. Observance of Laws Duplicate bridge tournaments should be played in strict accordance with the Laws. The chief object is to obtain a higher score than other contestants whilst complying with the lawful procedures and ethical standards set out in these laws.
+B. Infraction of Law 1. A player must not infringe a law intentionally, even if there is a prescribed rectification he is willing to accept. 2. In general, there is no obligation to draw attention to an infraction of law committed by one's own side (but see Law 20F for a mistaken explanation and see Laws 62A and 79A2). 3. A player may not attempt to conceal an infraction, as by committing a second revoke, concealing a card involved in a revoke or mixing the cards prematurely.
+22 For the purposes of Laws 70 and 71, "normal" includes play that would be careless or inferior for the class of player involved.
+
+81
+C. Awareness of Potential Damage If the Director determines that an o ender could have been aware at the time of his irregularity that it could well damage the non-o ending side, he shall require the auction and play to continue (if not completed). At the conclusion of play the Director awards an adjusted score if he considers the o ending side has gained an advantage through the irregularity.
+LAW 73
+COMMUNICATION, TEMPO AND DECEPTION
+A. Appropriate Communication between Partners 1. Communication between partners during the auction and play shall be e ected only by means of calls and plays, except as specifically authorized by these laws. 2. Calls and plays should be made without undue emphasis, mannerism or inflection, and without undue hesitation or haste. But Regulating Authorities may require mandatory pauses, as on the first round of the auction, or after a skip-bid warning, or on the first trick.
+B. Inappropriate Communication between Partners 1. Partners shall not communicate by means such as the manner in which calls or plays are made, extraneous remarks or gestures, questions asked or not asked, or alerts and explanations given or not given. 2. The gravest possible o ense is for a partnership to exchange information through prearranged methods of communication other than those sanctioned by these Laws.
+
+82
+C. Player Receives Unauthorized Information from Partner 1. When a player has available to him unauthorized information from his partner, such as from a remark, question, explanation, gesture, mannerism, undue emphasis, inflection, haste or hesitation, an unexpected alert or failure to alert, he must carefully avoid taking any advantage from that unauthorized information [see Law 16B1(a)]. 2. A penalty may be assessed against a player who violates C1, but if the opponents have been damaged, see also Law 16B3.
+D. Variations in Tempo or Manner 1. It is desirable, though not always required, for players to maintain steady tempo and unvarying manner. However, players should be particularly careful when variations may work to the benefit of their side. Otherwise, unintentionally to vary the tempo or manner in which a call or play is made is not an infraction. Inferences from such variations are authorized only to the opponents, who may act upon the information at their own risk. 2. A player may not attempt to mislead an opponent by means of a question, remark or gesture; by the haste or hesitancy of a call or play (as in hesitating before playing a singleton); by the manner in which a call or play is made; or by any purposeful deviation from correct procedure (see also Law 73E2).
+E. Deception 1. A player may appropriately attempt to deceive an opponent through a call or play (so long as the deception is not emphasized by unwonted haste or hesitancy, nor protected by concealed partnership understanding or experience). 2. If the Director determines that an innocent player has drawn a false inference from a
+
+83
+question, remark, manner, tempo or the like, of an opponent who has no demonstrable bridge reason for the action, and who could have been aware, at the time of the action, that it could work to his benefit, the Director shall award an adjusted score.
+LAW 74
+CONDUCT AND ETIQUETTE
+A. Proper Attitude 1. A player should maintain a courteous attitude at all times. 2. A player should carefully avoid any remark or extraneous action that might cause annoyance or embarrassment to another player or might interfere with the enjoyment of the game. 3. Every player should follow uniform and correct procedure in calling and playing.
+B. Etiquette As a matter of courtesy a player should refrain from: 1. paying insu cient attention to the game. 2. making gratuitous comments during the auction and play. 3. detaching a card before it is his turn to play. 4. prolonging play unnecessarily (as in playing on although he knows that all the tricks are surely his) for the purpose of disconcerting an opponent. 5. summoning and addressing the Director in a manner discourteous to him or to other contestants.
+C. Violations of Procedure The following are examples of violations of procedure:
+
+84
+1. using di erent designations for the same call. 2. indicating approval or disapproval of a
+call or play. 3. indicating the expectation or intention of
+winning or losing a trick that has not been completed. 4. commenting or acting during the auction or play so as to call attention to a significant occurrence, or to the number of tricks still required for success. 5. looking intently at any other player during the auction and play, or at another player's hand as for the purpose of seeing his cards or of observing the place from which he draws a card (but it is appropriate to act on information acquired by unintentionally seeing an opponent's card23). 6. showing an obvious lack of further interest in a deal (as by folding one's cards). 7. varying the normal tempo of bidding or play for the purpose of disconcerting an opponent. 8. leaving the table needlessly before the round is called.
+LAW 75
+MISTAKEN EXPLANATION OR MISTAKEN CALL
+After a misleading explanation has been given to opponents the responsibilities of the players (and the Director) are as follows:
+A. Mistake Causing Unauthorized Information Irrespective of whether or not an explanation is a correct statement of partnership agreement, a player, having heard his partner's explanation, knows that his own call has been misinterpreted. This knowledge is unauthorized information (see Law 16A) and the player must carefully
+23 See Law 73D2 when a player may have shown his cards intentionally.
+
+85
+avoid taking any advantage from it (see Law 73C); otherwise the Director shall award an adjusted score.
+B. Mistaken Explanation 1. When the partnership agreement is di erent from the explanation given, the explanation is an infraction of Law. When this infraction results in damage to the non-o ending side, the Director shall award an adjusted score. 2. If a player becomes aware of his own mistake, he must summon the Director before the opening lead is faced (or during the play, if discovered later), and then provide a correction. The player is also permitted to call the Director before the auction ends, but he is under no obligation to do so (see Law 20F4). 3. The player's partner must do nothing to correct the mistaken explanation while the auction continues and if he subsequently becomes a defender, he must call the Director and correct the explanation only after play ends. If the player's partner is to be declarer or dummy, he must, after the final pass, call the Director and then provide a correction.
+C. Mistaken Call When the partnership agreement has been explained correctly, the mistake being the call made and not the explanation, there is no infraction. The explanation must not be corrected (nor must the Director be notified) immediately and there is no obligation to do so subsequently. Regardless of damage, the result stands [but see Law 21B1(b)].
+D. Director's Determination 1. Players are expected to disclose their partnership agreements accurately (see Law 20F1); failure to do so constitutes Misinformation.
+
+86
+2. It is a condition of any partnership agreement that both players possess the same mutual understanding, and it is an infraction to describe an agreement where the same mutual understanding does not exist. If the Director determines that the misleading explanation was not based upon a partnership agreement, he applies Law 21B.
+3. When there is an infraction (as per B1 or D2) and su cient evidence exists as to the agreed meaning of the call, the Director awards an adjusted score based upon the likely outcome had the opponents received the correct explanation in a timely manner. If the Director determines that the call has no agreed meaning, he awards an adjusted score based upon the likely outcome had the opponents been so informed.
+LAW 76
+SPECTATORS
+A. Control 1. Spectators in the playing area24 are subject to the control of the Director under the regulations for the tournament. 2. Regulating Authorities and Tournament Organizers who grant facilities for electronic transmission of play as it occurs may establish by regulation the terms by which such transmissions are viewed and prescribe acceptable conduct for viewers. (A viewer must not communicate with a player in the course of a session in which the latter is playing.)
+24 The playing area includes all parts of the accommodation where a player may be present during a session in which he is participating. It may be further defined by regulation.
+
+87
+B. At the Table 1. A spectator may not look at the hand of more than one player unless allowed by regulation. 2. A spectator must not show any reaction to the bidding or play when a deal is in progress. 3. During a round a spectator must refrain from mannerisms or remarks of any kind and must have no conversation with a player. 4. A spectator must not disturb a player. 5. A spectator at the table shall not draw attention to any aspect of the game.
+C. Participation 1. A spectator may speak as to fact or law within the playing area24 only when requested to do so by the Director. 2. Regulating Authorities and Tournament Organizers may specify how to deal with irregularities caused by spectators.
+D. Status Any person in the playing area24, other than a player or a tournament o cial, has the status of a spectator unless the Director specifies di erently.
+
+LAW 77
+DUPLICATE BRIDGE SCORING TABLE
+
+Trick Score Scored by declarer's side if the contract is fulfilled.
+
+If Trumps are:
+
+
+
+
+
+
+
+
+
+For each odd trick bid and made
+
+Undoubled
+
+20
+
+20
+
+30
+
+30
+
+Doubled
+
+40
+
+40
+
+60
+
+60
+
+Redoubled
+
+80
+
+80
+
+120
+
+120
+
+88
+
+At a Notrump Contract Undoubled Doubled Redoubled
+
+For first
+
+odd trick bid
+
+40
+
+and made
+
+For each
+
+additional
+
+30
+
+odd trick
+
+80
+
+160
+
+60
+
+120
+
+A trick score of 100 points or more, made on one board, is GAME.
+A trick score of less than 100 points is a PARTSCORE.
+
+Premium Score Scored by declarer's side
+
+Slams
+
+For making a slam Not Vulnerable Vulnerable
+
+Small Slam (12 tricks) bid and made
+
+500
+
+750
+
+Grand Slam (all 13 tricks) bid and made
+
+1000
+
+1500
+
+Overtricks
+
+For each
+
+Not Vulnerable
+
+Tricks made in excess of contract
+
+Undoubled
+
+Trick Value
+
+Doubled
+
+100
+
+Redoubled
+
+200
+
+Vulnerable
+Trick Value 200 400
+
+89
+
+Premiums for Game, Partscore, Fulfilling Contract
+
+For making GAME vulnerable
+
+500
+
+For making GAME, not vulnerable
+
+300
+
+For making any PARTSCORE
+
+50
+
+For making any doubled, but not redoubled contract
+
+50
+
+For making any redoubled contract
+
+100
+
+Undertrick Penalties Scored by declarer's opponents if the contract is
+not fulfilled
+
+Undertricks
+
+For first undertrick Not Vulnerable Vulnerable
+
+Tricks by which declarer falls short of the contract
+
+Undoubled
+
+50
+
+100
+
+Doubled
+
+100
+
+200
+
+Redoubled
+
+200
+
+400
+
+For each additional undertrick*
+
+Undoubled
+
+50
+
+100
+
+Doubled
+
+200
+
+300
+
+Redoubled
+
+400
+
+600
+
+Bonus for the fourth and each subsequent undertrick*
+
+Undoubled
+
+0
+
+0
+
+Doubled
+
+100
+
+0
+
+Redoubled
+
+200
+
+0
+
+If all four players pass (see Law 22) each side enters a zero score.
+
+*These tables from the original printed version of the 2017 Laws were corrected in this online version on Sept. 29, 2017.
+
+90
+
+LAW 78
+METHODS OF SCORING AND CONDITIONS OF CONTEST
+A. Matchpoint Scoring In matchpoint scoring each contestant is awarded, for scores made by di erent contestants who have played the same board and whose scores are compared with his, two scoring units (matchpoints or half matchpoints) for each score inferior to his, one scoring unit for each score equal to his, and zero scoring units for each score superior to his.
+B. International Matchpoint Scoring In international matchpoint scoring, on each board the total point di erence between the two scores compared is converted into IMPs according to the following scale.
+
+Di erence
+in points IMPs
+
+0­10
+
+0
+
+20-40
+
+1
+
+50­80
+
+2
+
+90­120 3
+
+130­160 4
+
+170­210 5
+
+220­260 6
+
+270­310 7
+
+320­360 8
+
+Di erence
+in points IMPs 370­420 9 430­490 10 500­590 11 600­740 12 750­890 13 900­1090 14 1100­1290 15 1300­1490 16
+
+Di erence
+in points IMPs
+
+1500­1740 17
+
+1750­1990 18
+
+2000­2240 19
+
+2250­2490 20
+
+2500­2990 21
+
+3000­3490 22
+
+3500­3990 23
+
+4000+
+
+24
+
+C. Total Point Scoring In total point scoring, the net total point score of all boards played is the score for each contestant.
+
+91
+D. Conditions of Contest If approved by the Regulating Authority other scoring methods (for example conversions to Victory Points) may be adopted. The Tournament Organizer should publish Conditions of Contest in advance of a tournament or contest. These should detail conditions of entry, methods of scoring, determination of winners, breaking of ties, and the like. The Conditions must not conflict with law or regulation and shall incorporate any information specified by the Regulating Authority. They should be available to contestants.
+LAW 79
+TRICKS WON
+A. Agreement on Tricks Won 1. The number of tricks won shall be agreed upon before all four hands have been returned to the board. 2. A player must not knowingly accept either the score for a trick that his side did not win or the concession of a trick that his opponents could not lose.
+B. Disagreement on Tricks Won If a disagreement arises, the Director must be called, then: 1. The Director determines whether there has been a claim or concession and, if so, applies Law 69B or Law 71. 2. If B1 above does not apply, the Director rules what score is to be recorded. 3. If the Director is not called before the round ends, the score may be changed for both sides only when he is clearly convinced as to the result obtained at the table. Otherwise
+
+92
+he should either allow the recorded score to stand, or decrease the score for one side without increasing it for the other.
+C. Error in Score 1. An error in recording or computing the agreedupon score, whether made by a player or an o cial, may be corrected until the expiration of the period(s) specified by the Tournament Organizer. Unless the Tournament Organizer specifies a later25 time, this Correction Period expires 30 minutes after the o cial score has been made available for inspection. 2. Subject to approval by the Tournament Organizer, a scoring error may be corrected after expiry of the Correction Period if the Director is satisfied beyond reasonable doubt that the record is wrong.
+LAW 80
+REGULATION AND ORGANIZATION
+A. The Regulating Authority 1. The Regulating Authority under these laws is: (a) for its own world tournaments and events, the World Bridge Federation. (b)the respective Zonal Authority for tournaments and events held under its auspices. (c) for any other tournament or event, the National Bridge Organization under whose auspices the tournament takes place. 2. The Regulating Authority has the responsibilities and powers specified in these laws.
+25 An earlier time may be specified when required by the special nature of a contest
+
+93
+3. The Regulating Authority may delegate its powers (retaining ultimate responsibility for their exercise) or it may assign them (in which case it has no further responsibility for their exercise).
+B. Tournament Organizer 1. The Regulating Authority may recognize an entity, designated the `Tournament Organizer', which subject to the requirements of the Regulating Authority and these laws is responsible for arranging and preparing a tournament or event. The Tournament Organizer's powers and duties may be delegated but the responsibility for their performance is retained. The Regulating Authority and the Tournament Organizer may be the same body. 2. The Tournament Organizer's powers and duties include: (a) appointment of the Director. If there is no appointed Director the players should designate a person to perform his functions. (b) to make advance arrangements for the tournament, including playing quarters, equipment and all other logistical requirements. (c) to establish the date and time of each session. (d) to establish the conditions of entry. (e) to establish the conditions for bidding and play in accordance with these laws, together with any special conditions (as, for example, play with screens ­ provisions for rectification of actions not transmitted across the screen may be varied). (f) to announce regulations supplementary to, but not in conflict with, these Laws.
+
+94
+(g) (i) to arrange for the appointment of any assistants required for the Director.
+(ii) to appoint other sta and prescribe their duties and responsibilities.
+(h) to arrange26 for entries to be accepted and listed.
+(i) to establish suitable conditions of play and announce them to the contestants.
+(j) to arrange26 for scores to be collected, results tabulated, and an o cial record made of them.
+(k) to make suitable arrangements for the conduct of appeals under Law 93.
+(l) any other powers and duties conferred in these laws.
+LAW 81
+THE DIRECTOR
+A. O cial Status The Director is the o cial representative of the Tournament Organizer.
+B. Restrictions and Responsibilities 1. The Director is responsible for the on-site technical management of the tournament. He has powers to remedy any omissions of the Tournament Organizer. 2. The Director applies, and is bound by, these Laws and supplementary regulations announced under authority given in these Laws.
+C. Director's Duties and Powers The Director (not the players) has the responsibility for rectifying irregularities and redressing damage. The Director's duties and powers normally include also the following:
+26 It is normal in some jurisdictions for the Director to assume responsibility for some or all of the tasks that the Tournament Organizer is here required to arrange.
+
+95
+1. to maintain discipline and to ensure the orderly progress of the game.
+2. to administer and interpret these Laws and to advise the players of their rights and responsibilities thereunder.
+3. to rectify an error or irregularity of which he becomes aware in any manner, within the periods established in accordance with Laws 79C and 92B.
+4. to assess rectification when applicable and to exercise the powers given him in Laws 90 and 91.
+5. to waive rectification for cause, in his discretion, upon the request of the nono ending side.
+6. to adjust disputes. 7. to refer any matter to an appropriate committee. 8. to report results for the o cial record if the
+Tournament Organizer requires it and to deal with any other matters delegated to him by the Tournament Organizer.
+D. Delegation of Duties The Director may delegate any of his duties to assistants, but he is not thereby relieved of responsibility for their correct performance.
+LAW 82
+RECTIFICATION OF ERRORS OF PROCEDURE
+A. Director's Duty It is the responsibility of the Director to rectify errors of procedure and to maintain the progress of the game in a manner that is not contrary to these Laws.
+
+96
+B. Rectification of Error To rectify an error in procedure the Director may: 1. award an adjusted score as permitted by these Laws. 2. require, postpone, or cancel the play of a board. 3. exercise any other power given to him in these Laws.
+C. Director's Error If a ruling has been given that the Director subsequently determines to be incorrect, and if no rectification will allow the board to be scored normally, he shall award an adjusted score, treating both sides as non-o ending for that purpose.
+LAW 83
+NOTIFICATION OF THE RIGHT TO APPEAL
+If the Director believes that a review of his decision on a point of fact or exercise of his discretionary power could well be in order, he shall advise a contestant of his right to appeal or may refer the matter to an appropriate committee.
+LAW 84
+RULINGS ON AGREED FACTS
+When the Director is called to rule on a point of law or regulation, and the facts are agreed, he rules as follows:
+A. No Rectification If no rectification is prescribed by law, and there is no occasion for him to exercise his discretionary powers, he directs the players to proceed with the auction or play.
+
+97
+B. Law Provides Rectification If the case is clearly covered by a Law that prescribes the rectification for the irregularity, he determines that rectification and ensures that it is implemented.
+C. Player's Option If a Law gives a player a choice of rectification the Director explains the options and sees that the choice is made and implemented.
+D. Director's Option The Director rules any doubtful point in favor of the non-o ending side. He seeks to restore equity. If in his judgment it is probable that a non-o ending side has been damaged by an irregularity for which these laws provide no rectification he adjusts the score (see Law 12).
+LAW 85
+RULINGS ON DISPUTED FACTS
+When the Director is called upon to rule on a point of law or regulation in which the facts are not agreed upon, he proceeds as follows:
+A. Director's Assessment 1. In determining the facts the Director shall base his view on the balance of probabilities, which is to say in accordance with the weight of the evidence he is able to collect. 2. If the Director is then satisfied that he has ascertained the facts, he rules as in Law 84.
+B. Facts Not Determined If the Director is unable to determine the facts to his satisfaction, he makes a ruling that will permit play to continue.
+
+98
+LAW 86
+TEAM PLAY
+A. Substitute Board The Director shall not exercise his Law 6 authority to order one board redealt when the final result of a match without that board could be known to a contestant. Instead, he awards an adjusted score.
+B. Result Obtained at Other Table 1. Single Result Obtained In team play when the Director awards an adjusted score and the result at the other table between the same contestants is clearly favorable to one side, the Director shall award an assigned adjusted score [see Law 12C1(c), but for multiple adjusted scores see B2 following]. 2. Multiple Results Obtained at One or More Tables27 In team play when two or more noncomparable results have been obtained between the same contestants or when these Laws otherwise require the Director to award more than one adjusted score: (a) If no contestant was at fault, the Director shall cancel the board(s) and award one or more artificial adjusted scores [see Law 12C2] or, if time permits, play one or more substitute boards (but see A above). (b) If only one contestant was at fault, the Director shall award to the non-o ending side, for each board in question, either an artificial adjusted score of average plus [see Law 12C2(b)] or an assigned adjusted score, whichever is more favorable. The o ending side shall receive the complement of the score awarded to their opponents.
+27 including results from a fouled board
+
+99
+(c) If both contestants were at fault, the Director shall cancel the board(s) and award one or more artificial adjusted scores [see Law 12C2].
+3. The Regulating Authority may provide di erently for circumstances where boards have been played at only one table between the same or multiple contestants. The score awarded for each such board may be varied by regulation from that prescribed in B2, however in the absence of a relevant regulation, the Director proceeds as above.
+LAW 87
+FOULED BOARD
+A. Definition A board is considered to be fouled if the Director determines that a card (or more than one) was displaced in the board, or if he determines that the dealer or vulnerability di ered between copies of the same board, and the contestants who should have had a score comparison did not play the board in identical form for such reason.
+B. Pairs and Individual Scoring In scoring a fouled board the Director determines as closely as possible which scores were obtained on the board in its correct form and which in the changed form(s). He divides the scores on that basis into groups and rates each group separately as provided in the regulations for the tournament. (In the absence of a relevant regulation the Director selects and announces his method.)
+C. Teams Scoring See Law 86B2.
+
+100
+LAW 88
+AWARD OF INDEMNITY POINTS
+See Law 12C2.
+LAW 89
+RECTIFICATION IN INDIVIDUAL EVENTS
+See Law 12C3.
+LAW 90
+PROCEDURAL PENALTIES
+A. Director's Authority The Director, in addition to implementing the rectifications in these Laws, may also assess procedural penalties for any o ense that unduly delays or obstructs the game, inconveniences other contestants, violates correct procedure, or requires the award of an adjusted score.
+B. O enses Subject to Procedural Penalty The following are examples of o enses subject to procedural penalty (but the o enses are not limited to these): 1. arrival of a contestant after the specified starting time. 2. unduly slow play by a contestant. 3. discussion of the bidding, play or result of a board, which may be overheard at another table. 4. unauthorized comparison of scores with another contestant. 5. touching or handling of cards belonging to another player (see Law 7). 6. placing one or more cards in an incorrect pocket of the board.
+
+101
+7. errors in procedure (such as failure to count cards in one's hand, playing the wrong board, etc.) that require an adjusted score for any contestant.
+8. failure to comply promptly with tournament regulations or with instructions of the Director.
+LAW 91
+PENALIZE OR SUSPEND
+A. Director's Powers In performing his duty to maintain order and discipline, the Director is empowered to assess disciplinary penalties in points or to suspend a player or contestant for the current session or any part thereof. The Director's decision under this clause is final (see Law 93B3).
+B. Right to Disqualify The Director is empowered to disqualify a player or contestant for cause, subject to approval by the Tournament Organizer.
+LAW 92
+RIGHT TO APPEAL
+A. Contestant's Right A contestant or his captain may appeal for a review of any ruling made at his table by the Director. Any such request, if deemed to lack merit, may be the subject of a sanction imposed by regulation.
+B. Time of Appeal The right to request or appeal a Director's ruling expires 30 minutes after the official score has been made available for inspection unless the Tournament Organizer has specified a different time period.
+
+102
+C. How to Appeal All requests for a review of a ruling shall be made through the Director.
+D. Concurrence of Appellants An appeal shall not be heard unless: 1. in a pairs event both members of the partnership concur in making the appeal (but in an individual contest an appellant does not require his partner's concurrence). 2. in a team event the team captain concurs in making the appeal.
+LAW 93
+PROCEDURES OF APPEAL
+A. No Appeals Committee The Director in charge shall hear and rule upon all appeals if there is no Appeals Committee [or if no alternative arrangement has been made under Law 80B2(k)], or if such cannot operate without disturbing the orderly progress of the tournament.
+B. Appeals Committee Available If a committee (or authorized alternative) is available: 1. The Director in charge shall hear and rule upon such part of the appeal as deals solely with the Law or regulations. His ruling may be appealed to the committee. 2. The Director in charge shall refer all other appeals for adjudication. 3. In adjudicating appeals, the committee (or the authorized alternative) may exercise all powers assigned by these Laws to the Director, except that it may not overrule the Director in charge on a point of law or regulations, or on exercise
+
+103
+of his Law 91 disciplinary powers. (It may recommend to the Director in charge that he change such a ruling.) C. Further Possibilities of Appeal 1. Regulating Authorities may establish procedures for further appeals after the foregoing procedures have been exhausted. Any such further appeal, if deemed to lack merit, may be the subject of a sanction imposed by regulation. 2. The Director in charge or the reviewing body may refer a matter for later consideration by the Regulating Authority. The Regulating Authority has authority to resolve any matter finally. 3.(a) Notwithstanding 1 and 2 above, where
+deeming it crucial to the progress of the tournament, the Regulating Authority may assign to a specified tournament body the responsibility for dealing finally with any appeal and, along with the parties to the appeal, is then bound by the outcome. (b) With due notice given to the contestants a Regulating Authority may authorize the omission or modification of such stages as it wishes of the appeals process set out in these Laws.28
+28 The Regulating Authority is responsible for compliance with any national law that may a ect its action.
+
+104
+Index to Duplicate Laws
+Compiled by Richard Hills and based on original work on the 1997 Laws by Rick Assad.
+Adjusted Score Definitions Application of player 12A Artificial adjusted score 12C1(d), 12C2, 86B2 Assigned adjusted score 12C1, 86B1, 86B2(b) Average 12C2(a) Average minus 12C2 Average plus 12C2, 86B2(b) Awarding 12C Damage 12B1 Director's own initiative 12A Extreme serious error (unrelated to the
+infraction) 12C1(e) Gambling action 12C1(e) Incorrect rectification of an irregularity 12A3 Laws prescribe no rectification 12A1 Normal play impossible 12A2, 12C2 Probable outcome 12C1(b) Team play 12C4, 86
+Agreement See Partnership Understanding
+Aids To Memory, Calculation Or Technique 40B2(d)
+Alert Definitions Disclosure 40B2(a)(iii) Failure to, mistaken explanation 20F5(a) Failure to, unauthorized information 16B1, 73C Unexpected, unauthorized information 16B1, 73C
+Alter By Partner Partnership understanding 40A4 Style and judgment 40A4
+
+105
+
+Appeal 92, 93
+
+Adjudication 93B2
+
+All others 93B2
+
+Arrangements for 80B2(k), 93A
+
+Captain 92A, 92D
+
+Committee, authorized alternative
+
+93B3
+
+Committee available 93B
+
+Committee powers 93B3
+
+Concerns law 93B1
+
+Concurrence of appellants 92D
+
+Contestant's right to 92A
+
+Director in charge, powers and responsibilities 93
+
+Further possibilities of 93C
+
+Made through Director 92C
+
+No Appeals Committee 93A
+
+Notification of right to 83
+
+Procedures 93
+
+Regulating Authority, assign to specified
+
+tournament body 93C3(a)
+
+Regulating Authority, further procedures 93C1
+
+Regulating Authority, national law 93 footnote
+
+Regulating Authority, omit or modify 93C3(b)
+
+Regulating Authority, referral to 93C2
+
+Regulating Authority, resolve finally 93C2
+
+Reviewing body 93C2
+
+Time of 92B
+
+Without merit 92A, 93C1
+
+Arrangement Of Tables 3
+Artificial Adjusted Score 12C1(d), 12C2 See also Adjusted Score
+
+Artificial Call Definitions, 40B1(c) Artificial pass Definitions, 30C Artificial psychic call 40B2(a)(v)
+
+Assigned Adjusted Score 12C1 See also Adjusted Score
+
+106
+Assignment Of Seats 5 Change of Direction or Table 5B
+Auction Definitions See also Auction Period Cards taken from wrong board 15 Commencement of Definitions End of 22, 25 Explanation of calls during 20F Procedure after 22, 41 Review, after final pass 20C Review, before opening lead faced 41B Review, responded to by opponent 20D Visible card Definitions, 24
+Auction Period 17 See also Auction Clarification Period 17D1, 20F4, 20F5(b)(ii), 40B2(b), 40B2(c)(ii), 41 End of 17D First call 17B Retention of right to call 17D3 Review of auction during 20B Starts 17A Successive calls 17C
+Authorized Information 16 Arising from law or regulation 16A1(c) Estimate of score 16A2 Legal calls and plays 16A1(a) Opponents' traits 16A2 Prior possession, not precluded by law 16A1(d) Requirements of tournament regulations 16A2 Withdrawn action, non-o ending side 16C1
+Average Minus Score 12C2
+Average Plus Score 12C2, 86B2
+
+107
+Average Score 12C2(a) Note: An "Average score" is not identical to a "Zero score".
+Awareness of Potential Damage 72C
+Bid Definitions See also Call After auction has ended 39 Before a pass out of rotation 30B Di erent methods 18F Insu cient bid 27 Insu cient bid, accepted 27A1 Insu cient bid, comparable call 23A Insu cient bid, not accepted 27B Insu cient bid, out of rotation 27A2, 31 Mistaken 21B1(b), 75 Out of rotation 31 Out of rotation, comparable call 23A Proper form 18A Rank of the denominations 18E Seven, more than 38 Su cient 18C Supersede 18B
+Board Definitions See also Deal Dealer and Vulnerability 2 Duplicate 2 Duplication of 6F Fouled board 86B2, 87 Movement of 8A Normal play impossible 12A2 Orientation and placement of 7A Removal of cards from 7B Returning cards to 7C Wrong board 15
+Calculation, Aids To 40B2(d)
+
+108
+Call Definitions Based on caller's misunderstanding 21A Based on misinformation 21B By correct player 28B Change by opponent following correction 21B2 Change of intentional call 25B Change of intentional call, loss of concentration 25A2 Change of unintentional call 25A Change of unintentional call, mechanical error 25A2 Change of unintentional call, slip of tongue 25A2 Comparable 23 Explanation of 20F In rotation, considered to be 28 Inadmissible 35 Inadmissible action, obligation to pass 37 Inadmissible bid, more than seven 38 Inadmissible call, after final pass 39 Inadmissible double 36 Inadmissible redouble 36 Not clearly recognized 20A Out of rotation 29 Out of rotation, accepted 29A Out of rotation, artificial 29C Out of rotation, cancelled (withdrawn) 16C, 28B Out of rotation, LHO's turn 25, 28B Retention of right to call 17D3 Review and explanation of 20 RHO required to pass 28A Simultaneous 33 Substitute call accepted 25B1 Substitute call not accepted 25B2 Too late to change call 21B3 Withdrawn, lead restrictions 26 Withdrawn, non-o ending side 16C1 Withdrawn, o ending side 16C2
+Call for Card See Card
+Cancelled See Withdrawn action
+
+109
+Card Cannot be found 14A2 Compulsory play of 45C Correction of unintended designation
+from dummy 45C4(b) Counting of 7B2 Designated or named 45C4(a) Designating dummy's card, complete 46A Designating dummy's card, erroneous 46B Designating dummy's card, incomplete 46B Designating dummy's card, unintended 45C4(b), 46B Dummy indicates 45F Dummy picks up non-designated 45D Fifth card played to trick 45E Incorrect number of 13 Inspection of 7B2, 66 Loss of concentration 45C4(b) Missing 14 Penalty Card 49, 50 Penalty Card, failure to play 52 Penalty Cards, two or more 51 Played 45 Rank 1A Removal from board 7B1 Removal from wrong board 15 Retaining possession of 7B3 Returning to board 7C Revoke See Revoke Shu e after play finished 7C Shu e and deal 6 Symmetrical backs 1C Symmetrical face 1B Visible Definitions Visible, auction 24 Visible, declarer 48 Visible, defender 49 Visible, revoke 64B3 Withdrawn (retracted) card 16C, 47
+
+110
+Card Missing 14 Information from replacement 14C Noticed at any later time 14B Noticed before play commences 14A
+Change of Play 47 Misinformation 47E
+Claim 68, 69, 70 See also Concession Agreed claim or concession 69 Agreed claim or concession, established 69A Agreement with claim or concession withdrawn 69B Clarification 68C, 70B Contested 70 Definition of 68A Line of play, Director's considerations 70D Line of play, unstated 70E Normal play 70 footnote Outstanding trump 70C Play is suspended 68D, 70D3 Play may continue with concurrence of all
+four players 68D2(b)
+Clarification Period 17D1, 20F4, 20F5(b)(ii), 40B2(b), 40B2(c)(ii), 41
+Communication, Tempo and Deception 73 See also Information Communication between partners, appropriate 73A Communication between partners, inappropriate 73B Deception 73E Manner 73D Prearranged unsanctioned communication 73B2 Tempo 73D Unauthorized information from partner 16B1(a), 16B3, 73C
+Comparable Call 23
+
+111
+Concession 68, 69, 70, 71 See also Claim Agreed claim or concession 69 Agreed claim or concession, established 69A Agreement with claim or concession withdrawn 69B Cancelation of 71 Contested 70A Definition of 68B1 Normal play 71 footnote Play is suspended 68D, 70D3 Play may continue with concurrence of all four players
+68D2(b)
+Conduct 74
+Contestant Definitions
+Contract Definitions, 22
+Correct Procedure 74C, 90 Courtesy 74A1 Detaching card 74B3 Discourteous manner, Director call 74B5 Enjoyment of the game 74A2 Etiquette 74B Fast play, disconcerting 74C7 Gratuitous comments 74B2 Insu cient attention 74B1 Lack of further interest 74C6 Leaving the table needlessly 74C8 Requirement to follow 74A3 Significant occurrence 74C4 Slow play, disconcerting 74C7 Slow play, undue 90B2 Slow play, unnecessary 74B4 Varying tempo, disconcerting 74C7 Violations of procedure, examples 74C
+Correction of Irregularity, Premature 9C
+
+112
+Correction Period 79C
+Counting Cards 7B2
+Courtesy 74A1
+Deal Definitions, 6B At Director's instructions redeal 6D3 Cards incorrectly dealt or exposed 6D1 Di erent method, dealing or pre-dealing 6E4 Director's options on dealing 6E No redeal, team play 86A No result, dealt without shu e 6D2 Redeal 6D
+Dealer And Vulnerability 2
+Deception 73E
+Deck See Sorted Deck
+Declarer Definitions Declarer after opening lead out of turn 54A
+Defective Trick 67
+Defender Definitions
+Denomination Definitions Rank 1A, 18E
+
+113
+Director 81 Delegation of duties 81D Discretionary powers 12 Disqualify 91B Error by Director 82C Powers 81C Refer question 83 Responsibilities 81B Suspend 91A Status 81A Summoning 9B1
+Disciplinary Penalty 91A
+Disclosure Alert See Alert Explanation of calls 20F Incorrect procedure 20G Partnership understanding See Partnership understanding
+Does Introduction
+Double Definitions Inadmissible 19A, 27B3, 36 Legal 19A1 Of incorrectly stated bid 19A3 Out of rotation 32 Out of rotation, comparable call 23A, 32A2 Proper form 19A2 Scoring 36C, 77 Superseded 19C
+Doubled Contract 19D Scoring 36C, 77
+
+114
+Dummy Definitions Defender shows hand to 43A3 Designating card to be played from 46 Faced hand 41D Indicated card 45F Limitations on 43A1, 43A2, 43B Picks up non-designated card 45D Rights, absolute 42A Rights, qualified 42B
+Duplication of Board 6F
+End of Last Round 8C
+End of Round 8B
+End of Session 8C
+Enjoyment of the Game 74A2
+Event Definitions
+Explanation Calls 20F Correcting errors 20F4, 20F5, 75B Defender's card play 20F2 Director's determination 75D Mistaken, presumed 21B1(b), 75C Mistaken, unauthorized information 75A
+Extraneous Definitions
+Facts Agreed 84 Disputed 85 Standard of proof 85A1
+
+115
+Final Pass, Review Of Auction 20C
+Follow Suit Definitions
+Forfeiture of the Right to Rectification 11 Director adjusts only one side's score 11A Procedural penalty 11B, 90
+Fouled Board 86B2, 87
+Game Definitions, 77
+Hand Definitions Wrong 15
+Honor Definitions
+Imp (International Matchpoint) Definitions, 78B
+Inadmissible Call 35
+Incorrect Number Of Cards 13
+Incorrect Rectification 12A3
+Individual Events 12C3
+Information 16 See also Communication Authorized 16 Calls or plays, legal 16A1(a) Calls or plays, withdrawn 16C Deceptive, appropriate 73E1 Deceptive, no demonstrable bridge reason 73E2 Extraneous, from other sources 16D Extraneous, from partner 16B Traits of opponents 16A2 Unauthorized 16
+
+116
+Infraction Definitions, 72 See also Irregularity Awareness of potential damage 72C Conceal 72B3 Intentional 72B1 Own side 72B2
+Insu cient Bid 18D, 27 Accepted 27A1 Adjusted score, non-o ending side damaged 27D Comparable call 23A, 27B1(b) Not accepted 27B O ender's partner perhaps perpetually passing 27B2, 27B3, 27B4 Out of rotation 27A2, 31 Premature replacement 27C Replaced at lowest level, specifies same denomination(s) 27B1(a) Replaced by another insu cient bid 27B4 Replaced by double or redouble 27B3
+Interpretation Of The Laws Introduction, 81C2
+Irregularity Definitions See also Infraction After attention is drawn 9B Assessment of rectification 10 Awareness of potential damage 72C Caused by spectator 76C2 Choice after 10C Drawing attention to 9A No further action 9B2 Opponents' rights 9B1(d) Player's rights 9B1(c) Premature correction 9C, 26B Prevention of 9A3 Procedure following 9 Retention of rights 9B1(c), 9B1(d) Summoning the Director 9B1(a), 9B1(b)
+
+117
+Laws Prescribe no rectification 12A Usage (may, does, should, shall, must) Introduction
+Lead Definitions Inability to lead as required 59 Not accepted 54D, 55B Opening lead, face down 41A Opening lead, faced 41C Out of turn 53, 54, 55, 56 Out of turn, accepted 53, 54, 55A, 56A Out of turn, by declarer 53, 54E, 55 Out of turn, by defender 53, 54, 56 Out of turn, faced opening lead 54 Out of turn, face down opening lead 41A, 47E2 Out of turn, misinformation 47E1 Out of turn, trick thirteen 53 footnote Premature lead or play by a defender 57 Restrictions, if call withdrawn 26 Restrictions, if penalty card(s) 50, 51 Simultaneous 58
+Lho (Left Hand Opponent) Definitions
+Logical Alternative Definition 16B1(b) Demonstrably suggested 16B1(a)
+Loss Of Concentration 25A2, 45C4(b)
+Mandatory Pauses 73A2
+Matchpoint Definitions, 78A
+May Introduction
+Memory, Aids To 40B2(d)
+
+118
+Misinformation Definitions, 20F1, 75D Call based on misinformation 21B Change of play 47E
+Missing Card 14 Noticed at any later time 14B Noticed before play commences 14A
+Mistaken Explanation Or Mistaken Call 21B, 75 Adjusted score, damage caused by misinformation 75D3 Adjusted score, damage caused by use
+of unauthorized information 75A Misinformation 21B, 75B1, 75D2 Mistaken call 21B1(b), 75C Mistaken call by player 20F4, 75B2 Mistaken call by player's partner 75B3 Unauthorized information 16, 73C, 75A
+Movement Of boards 8A Of players 8A
+Must Introduction
+National Bridge Organization, Auspices 80A1(C)
+Non-O ending Side Action by 11A Withdrawn action authorized information 16C1
+Normal Play Impossible 12A2
+Obligation To Pass, Action Violating 37
+Odd Trick Definitions, 18A
+Opening Lead Definitions Face down 41A Faced 41C Out of turn 54
+
+119
+Opponent Definitions Opponents' rights 9B1(d)
+Options Advantageous 10C3, 10C4 Choice among 10C2 Explanation of 10C1
+Orientation And Placement Of Board 7A
+Overtrick Definitions Scoring 77
+Pack Definitions, 1
+Partner Definitions Agreement with See Partnership Understanding Extraneous information from 16B
+Partnership Understanding 40 Aids to memory, calculation or technique 40B2(d) Adjusted score 40B3(a), 40B4, 40B5(b) Alter method, by partner 40A4 Alter style and judgment, by partner 40A4 Artificial meaning 40B1(c) Deviation from 40A3, 40C1, 40C2 Disclosure, all special knowledge 40B5(a) Disclosure, failure to 40B3 Disclosure, inferences 40B5(a) Disclosure, partial 40B5(b) Disclosure, repeated violations 40B3(b), 90, 91 Duty to make available 40A1(b) Explicit 40A1(a) Implicit 40A1(a), 40C1 Illegal 40B4, 90 Information conveyed through 40A2, 73C Psychic call 40A3, 40C1, 40C2 Psychic call, artificial 40B2(a)(v)
+Partnership Understanding (continued on)
+
+120
+Partnership Understanding (continued) Special 40B System card 40B2(a)(ii) System card, consultation of opponent's 40B2(c) System card, consultation of own 20G3, 40B2(b) Undisclosed 40A3, 40B3, 40C1 Vary, after irregularity by opponents 40B2(a)(iv)
+Partnerships 4
+Partscore Definitions Scoring 77
+Pass Definitions Action violating obligation to 37 Damaging enforced 72C Out of rotation 30 Out of rotation, artificial 30C, 31 Out of rotation, comparable call 23A
+Pauses, Mandatory 73A2
+Penalty Definitions See also Rectification Disciplinary 91 Procedural 90 Procedural, individual events 12C3 Repeated violations of disclosure 40B3(b)
+Penalty Card Definitions, 50 Declarer or dummy not any 48A Defender 49 Failure to play 52 Information from 50E Minor 50B, 50C Two or more 51
+Placement and Orientation of Board 7A
+
+121
+Play Definitions After an illegal 60 After irregularity 60A Commencement of 41 Inability to follow suit 44D Inability to play as required 59 Lead 44A Premature lead or play by a defender 57 Procedure of 44 Requirement to follow suit 44C Simultaneous 58 Subsequent 44B
+Play Period Definitions Commencement of 41C Explanation of calls during 20F2
+Players 3, 4, 5 Movement of 8A
+Playing Area 76 footnote
+Powers Director's discretionary 12 Director's duties and 81C Regulating Authority 80A Tournament Organizer 80B
+Premature Correction of an irregularity 9C, 26B Lead or play by a defender 57
+Premium Points Definitions, 77
+Presumed Declarer Definitions, 21B1(a), 54A
+
+122
+Procedure Auction Period See Auction Period After establishment of a revoke 64 Correct See Correct procedure Director's duty 81, 82A Director's error 82C Play 44 Rectification of error in 82 Responsibility for 7D
+Procedural Penalty 90 Assessed independently 90A Comparing scores 90B4 Director's authority 90A Errors in procedure 90B7 individual events 12C3 Loud discussion 90B3 Failure to comply promptly 90B8 Misplacing cards 90B6 O enses subject to 90B Tardiness 90B1 Touching cards 90B5 Unduly slow play 90B2
+Proof, Standard Of 85A1
+Psychic Call Definitions, 40 See also Partnership understanding Artificial psychic call 40B2(a)(v)
+
+123
+Question 20 Calls, actually made 20F1, 20F2 Calls, relevant but not made 20F1, 20F2 Calls, inferences 20F1, 20F Concerning auction before opening lead 41B Required by Law to pass 20B, 20 second footnote Single call 20F3 Sole purpose to benefit partner 20G1 Sole purpose to elicit incorrect response 20G2 Unauthorized information 16B, 73C, 75
+Rank Cards and suits 1A Denominations 18E Designation of 46B3 Incomplete designation of 46B1, 46B5
+Rectification Definitions See also Adjusted Score Assessment of 10 Assessment of, choice 10C Assessment of, Director alone 10A Assessment of, enforcement or waiver 10B Doubtful point 84D Forfeiture of the right to 11 Forfeiture of the right to, Director adjusts only one
+side's score 11A Forfeiture of the right to, procedural penalty 11B, 90 Incorrect 12A3 Irregularity caused by spectator 76C2 Laws prescribe no 12A1
+Revoke See Revoke Right to assess 10A Unduly severe or advantageous 12B2 Waiver 10B, 81C5
+
+124
+Redeal 6D No redeal, team play 86A
+Redouble Definitions Inadmissible 19B, 27B3, 36 Legal 19B1 Of an incorrectly stated bid 19B3 Out of rotation 32 Out of rotation, comparable call 23A Proper form 19B2 Scoring 36C, 77 Superseded 19C
+Redoubled Contract 19D Scoring 36C, 77
+Regulating Authority 80A Assign powers 80A3 Delegate powers 80A3 Further possibilities of appeal 93C May be Tournament Organizer 80B1 National Bridge Organization, auspices 80A1(c) Responsibilities and powers 80A2 World Bridge Federation 80A1(a) Zonal Authority 80A1(b)
+Result See also Score Agreement on 65D, 79A Cancelled, more than thirteen cards 13D No result can be obtained 12C2 No result, dealt without shu e 6D2 Obtained at other table in team play 86B
+
+125
+Retention of Right to Call 17D3
+Retracted (Withdrawn) Card 47 See also Withdrawn action
+Review Auction 20C2, 41B After completion of play 65C After final pass 20C At turn to call 20B Call not clearly recognized 20A Calls 20 Contract 41C Correction of error 20E Current trick 66A Own last card 66B Responded by an opponent 20D Quitted tricks 66C
+Revoke 61, 62, 63, 64 After non-o ending side calls to next deal 64B4 After round has ended 64B5 Automatic trick adjustment 64A By failure to play a faced card 64B3 Correction 62 Definition 61A Establishment 63 Inquiries 61B No automatic trick adjustment 64B Procedure after establishment 64 Redress of damage 64C Redress of damage, both sides
+have revoked 64B7, 64C2(b) Redress of damage, repeated revokes 64B2, 64C2(a) Right to inspect tricks 61C, 66C Twelfth trick, before defender's partner plays 62D2 Twelfth trick, corrected 62D1 Visible card Definitions, 64B3
+
+126
+RHO (Right hand opponent) Definitions
+Right to Assess Rectification 10A
+Right to Call, Retention Of 17D3
+Rights Dummy's 42 Opponent's, after Director summoning 9B1(d) Player's, after Director summoning 9B1(c)
+Rotation Definitions
+Round Definitions End of 8B End of last 8C
+Rulings Agreed facts 84 Disputed facts 85 Standard of proof 85A1
+Score, Adjusted See Adjusted score
+Scoring Doubled contract 19D, 36C Error 79C Fouled board 87 Fouled board, team play 86B2 IMP (International Matchpoint) Definitions, 78B Matchpoint Definitions, 78A Other methods 78D Redoubled contract 19D, 36C Scoring table 77 Total point 78C
+
+127
+Session Definitions At table throughout 7D Compass direction during 5 Date and time 80B2(c) Di erent meaning of Definitions, 4, 12C2, 91 End of 8C Partnerships during 4 Score obtained in the 12C2 Suspend a contestant for the 91A Suspend a player for the 91A
+Shall Introduction
+Should Introduction
+Shu e 6 At Director's instructions 6D3, 22A, 86A, 86B2(a) Director's options 6E New 6D Sorted deck Definitions, 6D2, 6 footnote
+Side Definitions
+Slam Definitions
+Sorted Deck Definitions, 6D2, 6 footnote See also Pack
+Special Partnership Understanding 40B See also Partnership understanding
+Spectator 76 At the table 76B Caused irregularity 76C2 Control 76A Participation 76C Status 76D
+Standard Of Proof 85A1
+
+128
+Substitute Board 6D3 Board, team play 86A, 86B2(a) Player 4
+Suit Definitions, 1A Designation of 46B2 Incomplete designation of 46B3, 46B5
+System Card 40B2(a)(ii) Consult opponent's 40B2(c) Consult own 20G3, 40B2(b)
+Team Definitions See also Contestant
+Team Play 86 Fouled board 86B2 Non-balancing adjustments, knockout play 12C4 Result obtained at other table 86B Substitute board 86A, 86B2(a)
+Technique, Aids To 40B2(d)
+Tempo Or Manner 73D Inferences 73C, 73D1 Mislead 73D2, 73E2 Purposeful deviation 73D2, 73E2 Unintentional variation 73C, 73D1
+Tournament Organizer 80B Accept and list entries 80B2(h) Advance arrangements 80B2(b) Appeals 80B2(k), 93A Appoint Director 80B2(a) Appoint Director's assistants 80B2(g)(i) Appoint other sta 80B2(g)(ii) Bidding and play, conditions 80B2(e) Bidding and play, special conditions 80B2(e)
+Tournament Organizer (continued on)
+
+129
+Tournament Organizer (continued) Conditions of Contest 78D, 80B2(i) Conditions of entry 80B2(d) Correction Period 79C Correction Period, error corrected after expiry 79C2 Date and time of session 80B2(c) May be Regulating Authority 80B1 Powers and duties 80B2 Powers and duties, delegate 80B1 Powers and duties, othe 80B2(l) Scoring 80B2(j) Supplementary regulations 80B2(f) Tasks, Director to assume responsibility 80 footnote Time of appeal 92B
+Trick Definitions Arrangement of 65 Defective 67 Fifth card played 45E Inspection of 66 Player mixes cards 65D, 66D Review of the play 66D Turning 45G Won 79
+Trick Points Definitions, 77
+Trump Definitions Claim with outstanding 70C Tricks containing 44E Tricks not containing 44F
+Tournament Definitions
+Turn Definitions
+
+130
+Unauthorized Information 16 Extraneous information 16A3 Extraneous information from other sources 16D Extraneous information from partner 16B, 73C Logical alternative, definition 16B1(b) Logical alternative, demonstrably suggested 16B1(a) Withdrawn action, o ending side 16C2
+Understanding See Partnership understanding
+Undertrick Definitions Scoring 77
+Unduly Severe or Advantageous Rectification 12B2
+Unintended Definitions Loss of Concentration 25A2, 45C4(b)
+VARIATIONS IN TEMPO OR MANNER See Tempo or manner
+Visible Card Definitions Auction 24 Declarer 48 Defender 49 Revoke 64B3
+Vulnerability Definitions Dealer and 2 Scoring 77
+Waiver of Rectification 10B, 81C5
+
+131
+Withdrawn Action Definitions, 16C Authorized information non-o ending side 16C1 Call, intended 25B Call, loss of concentration 25A2 Call, unintended 25A Cancelled is a Definitions Card, loss of concentration designation from dummy 45C4(b) Card, unintended designation from dummy 45C4(b) Card, withdrawn (retracted) 47 Lead restrictions 26 Unauthorized information o ending side 16C2
+World Bridge Federation 80A1(a)
+Wrong Board or Hand 15
+Zero Score 77 Note: A "Zero score" is not identical to an
+"Average score".
+Zonal Authority 80A1(b)
+
+$9.95
+6575 Windchase Blvd Horn Lake MS 38637
+www.acbl.org
+ISBN: 978-1-944201-10-4
+
+

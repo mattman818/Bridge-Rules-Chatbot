@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge Laws Expert - Laws of Duplicate Bridge 2017</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --secondary: #7c3aed;
+            --bg-dark: #0f172a;
+            --bg-card: #1e293b;
+            --bg-input: #334155;
+            --text-primary: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --border: #475569;
+            --accent: #fbbf24;
+            --success: #22c55e;
+            --error: #ef4444;
+            --info: #06b6d4;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--bg-card) 0%, rgba(37, 99, 235, 0.1) 100%);
+            border-bottom: 1px solid var(--border);
+            padding: 1rem 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(10px);
+        }
+
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .logo-icon {
+            font-size: 2rem;
+            filter: drop-shadow(0 0 8px rgba(37, 99, 235, 0.5));
+        }
+
+        .logo h1 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--text-primary) 0%, var(--primary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .logo-subtitle {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        .header-actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .btn-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: var(--bg-input);
+            color: var(--text-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .btn-icon:hover {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        /* Main Layout */
+        .main-container {
+            flex: 1;
+            display: flex;
+            max-width: 1400px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 1rem;
+            gap: 1rem;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 300px;
+            flex-shrink: 0;
+            display: none;
+            flex-direction: column;
+            gap: 1rem;
+            max-height: calc(100vh - 120px);
+            overflow-y: auto;
+        }
+
+        .sidebar.visible {
+            display: flex;
+        }
+
+        @media (min-width: 1024px) {
+            .sidebar {
+                display: flex;
+            }
+        }
+
+        .sidebar-card {
+            background: var(--bg-card);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            padding: 1rem;
+        }
+
+        .sidebar-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .quick-questions {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .quick-btn {
+            padding: 0.625rem 0.875rem;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 0.8125rem;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+            line-height: 1.4;
+        }
+
+        .quick-btn:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+        }
+
+        .topics-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.375rem;
+        }
+
+        .topic-tag {
+            padding: 0.375rem 0.625rem;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .topic-tag:hover {
+            background: var(--secondary);
+            color: white;
+            border-color: var(--secondary);
+        }
+
+        /* Category colors */
+        .category-revoke { border-left: 3px solid #ef4444; }
+        .category-auction { border-left: 3px solid #f59e0b; }
+        .category-play { border-left: 3px solid #22c55e; }
+        .category-proprieties { border-left: 3px solid #8b5cf6; }
+        .category-scoring { border-left: 3px solid #06b6d4; }
+
+        /* Chat Area */
+        .chat-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+
+        .chat-container {
+            flex: 1;
+            background: var(--bg-card);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .message {
+            max-width: 90%;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .message.user {
+            align-self: flex-end;
+        }
+
+        .message.assistant {
+            align-self: flex-start;
+        }
+
+        .message-content {
+            padding: 1rem 1.25rem;
+            border-radius: 16px;
+            line-height: 1.6;
+        }
+
+        .message.user .message-content {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message.assistant .message-content {
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-bottom-left-radius: 4px;
+        }
+
+        .message-content p {
+            margin-bottom: 0.75rem;
+        }
+
+        .message-content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .message-content strong {
+            color: var(--accent);
+        }
+
+        .message-content code {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 0.125rem 0.375rem;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.875em;
+        }
+
+        .message-content ul, .message-content ol {
+            margin: 0.75rem 0;
+            padding-left: 1.5rem;
+        }
+
+        .message-content li {
+            margin-bottom: 0.375rem;
+        }
+
+        .message-content h2, .message-content h3 {
+            color: var(--info);
+            margin: 1rem 0 0.5rem 0;
+            font-size: 1.1em;
+        }
+
+        .law-reference {
+            display: inline-block;
+            background: rgba(37, 99, 235, 0.2);
+            color: var(--primary);
+            padding: 0.125rem 0.5rem;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 0.875em;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .law-reference:hover {
+            background: rgba(37, 99, 235, 0.4);
+        }
+
+        .sources {
+            margin-top: 1rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border);
+        }
+
+        .sources-title {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .source-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.375rem;
+        }
+
+        .source-tag {
+            padding: 0.25rem 0.5rem;
+            background: rgba(124, 58, 237, 0.2);
+            color: var(--secondary);
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .source-tag:hover {
+            background: rgba(124, 58, 237, 0.4);
+        }
+
+        /* Follow-up suggestions */
+        .follow-ups {
+            margin-top: 1rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border);
+        }
+
+        .follow-ups-title {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .follow-up-btn {
+            display: block;
+            width: 100%;
+            padding: 0.5rem 0.75rem;
+            margin-bottom: 0.375rem;
+            background: rgba(6, 182, 212, 0.1);
+            border: 1px solid rgba(6, 182, 212, 0.3);
+            border-radius: 8px;
+            color: var(--info);
+            font-size: 0.8125rem;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .follow-up-btn:hover {
+            background: rgba(6, 182, 212, 0.2);
+            border-color: var(--info);
+        }
+
+        /* Welcome Message */
+        .welcome-message {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .welcome-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+
+        .welcome-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .welcome-subtitle {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.6;
+        }
+
+        .welcome-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            max-width: 700px;
+            margin: 0 auto 1.5rem;
+            text-align: left;
+        }
+
+        .feature-item {
+            padding: 1rem;
+            background: var(--bg-input);
+            border-radius: 8px;
+            border: 1px solid var(--border);
+        }
+
+        .feature-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .feature-title {
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+            font-size: 0.9rem;
+        }
+
+        .feature-desc {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .welcome-examples {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .welcome-example {
+            padding: 0.75rem 1rem;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.9rem;
+        }
+
+        .welcome-example:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+        }
+
+        /* Input Area */
+        .input-area {
+            padding: 1rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-top: 1px solid var(--border);
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 0.75rem;
+            align-items: flex-end;
+        }
+
+        .input-field {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 0.875rem 1rem;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: var(--text-primary);
+            font-size: 0.9375rem;
+            font-family: inherit;
+            resize: none;
+            min-height: 48px;
+            max-height: 150px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        textarea::placeholder {
+            color: var(--text-secondary);
+        }
+
+        textarea:focus {
+            border-color: var(--primary);
+        }
+
+        .send-btn {
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            border: none;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            flex-shrink: 0;
+        }
+
+        .send-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(37, 99, 235, 0.4);
+        }
+
+        .send-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .send-btn svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Loading */
+        .loading {
+            display: flex;
+            gap: 4px;
+            padding: 0.5rem;
+        }
+
+        .loading span {
+            width: 8px;
+            height: 8px;
+            background: var(--text-secondary);
+            border-radius: 50%;
+            animation: bounce 1.4s infinite ease-in-out;
+        }
+
+        .loading span:nth-child(1) { animation-delay: -0.32s; }
+        .loading span:nth-child(2) { animation-delay: -0.16s; }
+
+        @keyframes bounce {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1); }
+        }
+
+        /* Law Detail Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+        }
+
+        .modal-overlay.visible {
+            display: flex;
+        }
+
+        .modal {
+            background: var(--bg-card);
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            max-width: 700px;
+            width: 100%;
+            max-height: 80vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .modal-header {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 1.5rem;
+            line-height: 1;
+        }
+
+        .modal-close:hover {
+            color: var(--text-primary);
+        }
+
+        .modal-body {
+            padding: 1.5rem;
+            overflow-y: auto;
+            line-height: 1.6;
+        }
+
+        .modal-section {
+            margin-bottom: 1.5rem;
+        }
+
+        .modal-section-title {
+            font-weight: 600;
+            color: var(--info);
+            margin-bottom: 0.5rem;
+        }
+
+        .related-laws {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .related-law-btn {
+            padding: 0.375rem 0.75rem;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 0.8125rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .related-law-btn:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 1rem;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border);
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-dark);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--text-secondary);
+        }
+
+        /* Mobile adjustments */
+        @media (max-width: 768px) {
+            .header-content {
+                flex-wrap: wrap;
+            }
+
+            .main-container {
+                padding: 0.5rem;
+            }
+
+            .messages {
+                padding: 1rem;
+            }
+
+            .message {
+                max-width: 95%;
+            }
+
+            .welcome-features {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Error state */
+        .error-message {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid var(--error);
+            color: var(--error);
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">&#9824;</span>
+                <div>
+                    <h1>Bridge Laws Expert</h1>
+                    <div class="logo-subtitle">Laws of Duplicate Bridge 2017 (ACBL) - Enhanced for Complex Questions</div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button class="btn-icon" onclick="clearChat()" title="New conversation">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 5v14M5 12h14"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-container">
+        <aside class="sidebar">
+            <div class="sidebar-card">
+                <div class="sidebar-title">Complex Scenarios</div>
+                <div class="quick-questions">
+                    <button class="quick-btn category-revoke" onclick="askQuestion('A defender revokes, then discovers it two tricks later. What happens to the revoke card, what are the penalties, and what information becomes unauthorized?')">
+                        Defender revokes - full analysis
+                    </button>
+                    <button class="quick-btn category-play" onclick="askQuestion('During the auction, a defender accidentally exposes the Ace of spades. Later, another card falls face up. What are all the penalty card implications?')">
+                        Multiple exposed cards scenario
+                    </button>
+                    <button class="quick-btn category-auction" onclick="askQuestion('My partner made an insufficient bid. What are ALL my options, and what happens with lead penalties if the bid is corrected?')">
+                        Insufficient bid - complete options
+                    </button>
+                    <button class="quick-btn category-proprieties" onclick="askQuestion('My partner hesitated for 30 seconds before passing. I have a close decision. What are my obligations under unauthorized information rules?')">
+                        Hesitation and UI obligations
+                    </button>
+                    <button class="quick-btn" onclick="askQuestion('Declarer claims with an outstanding trump. The opponents contest. How does the Director rule?')">
+                        Contested claim with trump
+                    </button>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">Multi-Law Topics</div>
+                <div class="topics-list">
+                    <span class="topic-tag" onclick="askQuestion('Explain the complete revoke procedure from detection through penalties, including Laws 61-64')">Revoke (61-64)</span>
+                    <span class="topic-tag" onclick="askQuestion('Explain penalty cards: major vs minor, lead restrictions, and multiple cards - Laws 49-52')">Penalty Cards</span>
+                    <span class="topic-tag" onclick="askQuestion('What is unauthorized information and how do Laws 16 and 73 interact?')">UI Rules</span>
+                    <span class="topic-tag" onclick="askQuestion('Explain calls out of rotation: Laws 28-32 and the lead restrictions from Law 26')">Out of Rotation</span>
+                    <span class="topic-tag" onclick="askQuestion('Claims and concessions: Laws 68-71, including contested claims')">Claims</span>
+                    <span class="topic-tag" onclick="askQuestion('What is a comparable call under Law 23 and when does it help?')">Comparable Call</span>
+                    <span class="topic-tag" onclick="askQuestion('Lead out of turn scenarios: Laws 53-56')">Lead Out of Turn</span>
+                    <span class="topic-tag" onclick="askQuestion('What are dummy\\'s rights and limitations under Laws 42-43?')">Dummy Rules</span>
+                </div>
+            </div>
+
+            <div class="sidebar-card">
+                <div class="sidebar-title">Director Guidance</div>
+                <div class="quick-questions">
+                    <button class="quick-btn" onclick="askQuestion('When MUST the Director be called vs when SHOULD the Director be called?')">
+                        When to call the Director
+                    </button>
+                    <button class="quick-btn" onclick="askQuestion('What powers does the Director have under Laws 12 and 81 for adjusted scores?')">
+                        Director's powers
+                    </button>
+                    <button class="quick-btn" onclick="askQuestion('How do appeals work under Laws 92-93?')">
+                        Appeal procedures
+                    </button>
+                </div>
+            </div>
+        </aside>
+
+        <main class="chat-area">
+            <div class="chat-container">
+                <div class="messages" id="messages">
+                    <div class="welcome-message">
+                        <div class="welcome-icon">&#9824;&#9829;&#9830;&#9827;</div>
+                        <h2 class="welcome-title">Bridge Laws Expert</h2>
+                        <p class="welcome-subtitle">
+                            I specialize in answering <strong>complex, multi-dimensional</strong> questions about the Laws of Duplicate Bridge 2017.
+                            I'll identify all relevant laws, explain how they interact, and walk you through the complete chain of events from irregularity to resolution.
+                        </p>
+
+                        <div class="welcome-features">
+                            <div class="feature-item">
+                                <div class="feature-icon">&#128279;</div>
+                                <div class="feature-title">Cross-Referenced Laws</div>
+                                <div class="feature-desc">I connect related laws and explain how they interact</div>
+                            </div>
+                            <div class="feature-item">
+                                <div class="feature-icon">&#128736;</div>
+                                <div class="feature-title">Complete Analysis</div>
+                                <div class="feature-desc">From irregularity through rectification to penalties</div>
+                            </div>
+                            <div class="feature-item">
+                                <div class="feature-icon">&#128161;</div>
+                                <div class="feature-title">Practical Guidance</div>
+                                <div class="feature-desc">What actually happens at the table</div>
+                            </div>
+                        </div>
+
+                        <div class="welcome-examples">
+                            <button class="welcome-example" onclick="askQuestion('A defender leads out of turn to trick 5. What are declarer\\'s options, what happens to the card, and what lead restrictions might apply?')">
+                                "A defender leads out of turn. What are all the consequences?"
+                            </button>
+                            <button class="welcome-example" onclick="askQuestion('My partner gave a wrong explanation of our convention during the auction. Later I realized and corrected it. What are the rules about mistaken explanations vs mistaken calls, and when must I speak up?')">
+                                "Partner gave wrong explanation - what now?"
+                            </button>
+                            <button class="welcome-example" onclick="askQuestion('Walk me through what happens when a revoke is discovered: when can it be corrected, when is it established, and what are the penalties in each case?')">
+                                "Complete revoke procedure explained"
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="input-area">
+                    <div class="input-wrapper">
+                        <div class="input-field">
+                            <textarea
+                                id="userInput"
+                                placeholder="Describe a bridge situation or ask about laws... I excel at complex, multi-part questions!"
+                                rows="1"
+                                onkeydown="handleKeyDown(event)"
+                                oninput="autoResize(this)"
+                            ></textarea>
+                        </div>
+                        <button class="send-btn" onclick="sendMessage()" id="sendBtn">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Law Detail Modal -->
+    <div class="modal-overlay" id="lawModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalTitle">Law Details</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                Loading...
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        Based on the <a href="https://www.acbl.org" target="_blank">ACBL</a> Laws of Duplicate Bridge 2017 |
+        Powered by Claude AI | Enhanced for Complex Questions
+    </footer>
+
+    <script>
+        let conversationHistory = [];
+        let isLoading = false;
+
+        function autoResize(textarea) {
+            textarea.style.height = 'auto';
+            textarea.style.height = Math.min(textarea.scrollHeight, 150) + 'px';
+        }
+
+        function handleKeyDown(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                sendMessage();
+            }
+        }
+
+        function addMessage(content, role, sources = [], followUps = []) {
+            const messagesDiv = document.getElementById('messages');
+
+            // Remove welcome message if present
+            const welcome = messagesDiv.querySelector('.welcome-message');
+            if (welcome) {
+                welcome.remove();
+            }
+
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${role}`;
+
+            let formattedContent = formatContent(content);
+
+            let sourcesHtml = '';
+            if (sources && sources.length > 0) {
+                sourcesHtml = `
+                    <div class="sources">
+                        <div class="sources-title">Referenced Laws</div>
+                        <div class="source-tags">
+                            ${sources.map(s => `<span class="source-tag" onclick="showLawDetail('${s.law}')">${s.law === 'DEFINITIONS' ? 'Definitions' : 'Law ' + s.law}${s.section ? ': ' + s.section.split('.')[0] : ''}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+
+            let followUpsHtml = '';
+            if (followUps && followUps.length > 0) {
+                followUpsHtml = `
+                    <div class="follow-ups">
+                        <div class="follow-ups-title">Related Questions</div>
+                        ${followUps.map(q => `<button class="follow-up-btn" onclick="askQuestion('${q.replace(/'/g, "\\'")}')">${q}</button>`).join('')}
+                    </div>
+                `;
+            }
+
+            messageDiv.innerHTML = `
+                <div class="message-content">
+                    ${formattedContent}
+                    ${sourcesHtml}
+                    ${followUpsHtml}
+                </div>
+            `;
+
+            messagesDiv.appendChild(messageDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        function formatContent(content) {
+            // Convert markdown-style formatting to HTML
+            let html = content;
+
+            // Escape HTML first
+            html = html.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+            // Headers
+            html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+            html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+
+            // Bold text
+            html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+
+            // Law references - make them clickable
+            html = html.replace(/\b(Law\s+(\d+[A-Z]?\d*))\b/gi, '<span class="law-reference" onclick="showLawDetail(\'$2\')">$1</span>');
+
+            // Code/inline code
+            html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+            // Lists
+            html = html.replace(/^\s*[-*]\s+(.+)$/gm, '<li>$1</li>');
+            html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
+
+            // Numbered lists
+            html = html.replace(/^\s*\d+\.\s+(.+)$/gm, '<li>$1</li>');
+
+            // Paragraphs
+            html = html.split('\n\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('');
+
+            // Clean up line breaks within paragraphs
+            html = html.replace(/<p>(.+?)<\/p>/gs, (match, p1) => {
+                return `<p>${p1.replace(/\n/g, '<br>')}</p>`;
+            });
+
+            return html;
+        }
+
+        function showLoading() {
+            const messagesDiv = document.getElementById('messages');
+            const loadingDiv = document.createElement('div');
+            loadingDiv.className = 'message assistant';
+            loadingDiv.id = 'loading';
+            loadingDiv.innerHTML = `
+                <div class="message-content">
+                    <div class="loading">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            `;
+            messagesDiv.appendChild(loadingDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        function hideLoading() {
+            const loading = document.getElementById('loading');
+            if (loading) {
+                loading.remove();
+            }
+        }
+
+        async function sendMessage() {
+            if (isLoading) return;
+
+            const input = document.getElementById('userInput');
+            const message = input.value.trim();
+
+            if (!message) return;
+
+            // Add user message
+            addMessage(message, 'user');
+            conversationHistory.push({ role: 'user', content: message });
+
+            input.value = '';
+            input.style.height = 'auto';
+
+            isLoading = true;
+            document.getElementById('sendBtn').disabled = true;
+            showLoading();
+
+            try {
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: message,
+                        conversation_history: conversationHistory.slice(-6)
+                    }),
+                });
+
+                hideLoading();
+
+                if (!response.ok) {
+                    const error = await response.json();
+                    throw new Error(error.detail || 'Failed to get response');
+                }
+
+                const data = await response.json();
+                addMessage(data.response, 'assistant', data.sources, data.follow_up_suggestions);
+                conversationHistory.push({ role: 'assistant', content: data.response });
+
+            } catch (error) {
+                hideLoading();
+                addMessage(`Error: ${error.message}. Please check that the server is running and the API key is configured.`, 'assistant');
+            }
+
+            isLoading = false;
+            document.getElementById('sendBtn').disabled = false;
+            input.focus();
+        }
+
+        function askQuestion(question) {
+            document.getElementById('userInput').value = question;
+            sendMessage();
+        }
+
+        function clearChat() {
+            conversationHistory = [];
+            const messagesDiv = document.getElementById('messages');
+            messagesDiv.innerHTML = `
+                <div class="welcome-message">
+                    <div class="welcome-icon">&#9824;&#9829;&#9830;&#9827;</div>
+                    <h2 class="welcome-title">Bridge Laws Expert</h2>
+                    <p class="welcome-subtitle">
+                        I specialize in answering <strong>complex, multi-dimensional</strong> questions about the Laws of Duplicate Bridge 2017.
+                        I'll identify all relevant laws, explain how they interact, and walk you through the complete chain of events from irregularity to resolution.
+                    </p>
+
+                    <div class="welcome-features">
+                        <div class="feature-item">
+                            <div class="feature-icon">&#128279;</div>
+                            <div class="feature-title">Cross-Referenced Laws</div>
+                            <div class="feature-desc">I connect related laws and explain how they interact</div>
+                        </div>
+                        <div class="feature-item">
+                            <div class="feature-icon">&#128736;</div>
+                            <div class="feature-title">Complete Analysis</div>
+                            <div class="feature-desc">From irregularity through rectification to penalties</div>
+                        </div>
+                        <div class="feature-item">
+                            <div class="feature-icon">&#128161;</div>
+                            <div class="feature-title">Practical Guidance</div>
+                            <div class="feature-desc">What actually happens at the table</div>
+                        </div>
+                    </div>
+
+                    <div class="welcome-examples">
+                        <button class="welcome-example" onclick="askQuestion('A defender leads out of turn to trick 5. What are declarer\\'s options, what happens to the card, and what lead restrictions might apply?')">
+                            "A defender leads out of turn. What are all the consequences?"
+                        </button>
+                        <button class="welcome-example" onclick="askQuestion('My partner gave a wrong explanation of our convention during the auction. Later I realized and corrected it. What are the rules about mistaken explanations vs mistaken calls, and when must I speak up?')">
+                            "Partner gave wrong explanation - what now?"
+                        </button>
+                        <button class="welcome-example" onclick="askQuestion('Walk me through what happens when a revoke is discovered: when can it be corrected, when is it established, and what are the penalties in each case?')">
+                            "Complete revoke procedure explained"
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+
+        async function showLawDetail(lawNumber) {
+            const modal = document.getElementById('lawModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalBody = document.getElementById('modalBody');
+
+            modal.classList.add('visible');
+            modalTitle.textContent = `Law ${lawNumber}`;
+            modalBody.innerHTML = '<p>Loading...</p>';
+
+            try {
+                // Fetch law details
+                const lawResponse = await fetch(`/api/law/${lawNumber}`);
+                if (!lawResponse.ok) throw new Error('Law not found');
+                const lawData = await lawResponse.json();
+
+                // Fetch related laws
+                const relatedResponse = await fetch(`/api/related/${lawNumber}`);
+                const relatedData = await relatedResponse.json();
+
+                let sectionsHtml = lawData.sections.map(s => `
+                    <div class="modal-section">
+                        ${s.section ? `<div class="modal-section-title">${s.section}</div>` : ''}
+                        <p>${s.content.replace(/\n/g, '<br>')}</p>
+                        ${s.cross_references && s.cross_references.length > 0 ?
+                            `<p style="color: var(--text-secondary); font-size: 0.85em;">Cross-references: ${s.cross_references.map(r => `Law ${r}`).join(', ')}</p>` : ''}
+                    </div>
+                `).join('');
+
+                let relatedHtml = '';
+                if (relatedData.related_laws && relatedData.related_laws.length > 0) {
+                    relatedHtml = `
+                        <div class="modal-section">
+                            <div class="modal-section-title">Related Laws</div>
+                            <div class="related-laws">
+                                ${relatedData.related_laws.map(r =>
+                                    `<button class="related-law-btn" onclick="showLawDetail('${r.law_number}')">Law ${r.law_number}: ${r.title}</button>`
+                                ).join('')}
+                            </div>
+                        </div>
+                    `;
+                }
+
+                modalTitle.textContent = `Law ${lawNumber}: ${lawData.title}`;
+                modalBody.innerHTML = `
+                    <p style="color: var(--text-secondary); margin-bottom: 1rem;">Category: ${lawData.category}</p>
+                    ${sectionsHtml}
+                    ${relatedHtml}
+                `;
+
+            } catch (error) {
+                modalBody.innerHTML = `<p class="error-message">Error loading law: ${error.message}</p>`;
+            }
+        }
+
+        function closeModal() {
+            document.getElementById('lawModal').classList.remove('visible');
+        }
+
+        // Close modal on escape or click outside
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+
+        document.getElementById('lawModal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+
+        // Focus input on page load
+        window.onload = function() {
+            document.getElementById('userInput').focus();
+        };
+    </script>
+</body>
+</html>
