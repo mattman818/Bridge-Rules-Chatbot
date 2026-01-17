@@ -167,8 +167,8 @@ async def chat(request: ChatRequest):
     if not request.message.strip():
         raise HTTPException(status_code=400, detail="Message cannot be empty")
 
-    # Search for relevant chunks (increased for complex questions)
-    relevant_chunks = search_chunks(request.message, chunks, top_k=10)
+    # Search for relevant chunks (reduced to stay within rate limits)
+    relevant_chunks = search_chunks(request.message, chunks, top_k=5)
 
     # Build context
     context = build_context(relevant_chunks)
