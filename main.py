@@ -14,7 +14,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from dotenv import load_dotenv
-import anthropic
+import google.generativeai as genai
 
 from document_processor import (
     get_all_chunks,
@@ -29,13 +29,13 @@ load_dotenv()
 
 # Global state
 chunks: list[LawChunk] = []
-client: Optional[anthropic.Anthropic] = None
+model: Optional[genai.GenerativeModel] = None
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Initialize resources on startup."""
-    global chunks, client
+    global chunks, model
 
     # Load document chunks - check same directory first, then parent
     laws_file = Path(__file__).parent / "laws-of-duplicate-bridge.txt"
@@ -48,13 +48,14 @@ async def lifespan(app: FastAPI):
     chunks = get_all_chunks(str(laws_file))
     print(f"Loaded {len(chunks)} document chunks")
 
-    # Initialize Anthropic client
-    api_key = os.getenv("ANTHROPIC_API_KEY")
+    # Initialize Gemini client
+    api_key = os.getenv("GOOGLE_API_KEY")
     if api_key:
-        client = anthropic.Anthropic(api_key=api_key)
-        print("Anthropic client initialized")
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel("gemini-2.0-flash")
+        print("Gemini client initialized")
     else:
-        print("WARNING: No ANTHROPIC_API_KEY found. API calls will fail.")
+        print("WARNING: No GOOGLE_API_KEY found. API calls will fail.")
 
     yield
 
@@ -129,12 +130,12 @@ async def root():
 @app.post("/api/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
     """Process a chat message and return a response with follow-up suggestions."""
-    global chunks, client
+    global chunks, model
 
-    if not client:
+    if not model:
         raise HTTPException(
             status_code=500,
-            detail="Anthropic API key not configured. Please set ANTHROPIC_API_KEY environment variable."
+            detail="Google API key not configured. Please set GOOGLE_API_KEY environment variable."
         )
 
     if not request.message.strip():
@@ -163,15 +164,14 @@ async def chat(request: ChatRequest):
     })
 
     try:
-        # Call Claude API - using Haiku for lower token usage
-        response = client.messages.create(
-            model="claude-3-5-haiku-20241022",
-            max_tokens=1024,
-            system=SYSTEM_PROMPT.format(context=context),
-            messages=messages
-        )
+        # Build prompt with system context and conversation
+        system_prompt = SYSTEM_PROMPT.format(context=context)
+        conversation = "\n".join([f"{msg['role']}: {msg['content']}" for msg in messages])
+        full_prompt = f"{system_prompt}\n\n{conversation}"
 
-        response_text = response.content[0].text
+        # Call Gemini API
+        response = model.generate_content(full_prompt)
+        response_text = response.text
 
         # Extract sources for citation
         sources = []
@@ -196,7 +196,7 @@ async def chat(request: ChatRequest):
             follow_up_suggestions=follow_ups
         )
 
-    except anthropic.APIError as e:
+    except Exception as e:
         raise HTTPException(status_code=500, detail=f"API error: {str(e)}")
 
 
@@ -337,7 +337,7 @@ async def health():
     return {
         "status": "healthy",
         "chunks_loaded": len(chunks),
-        "api_configured": client is not None,
+        "api_configured": model is not None,
         "version": "2.0.0"
     }
 
